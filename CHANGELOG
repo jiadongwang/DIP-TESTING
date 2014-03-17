@@ -1,0 +1,24 @@
+MIPLIB 2010 version NEXT
+===============
+
+
+MIPLIB 2010 version 1.0.3
+===============
+
+features:
+- support GLPK "make SOLVER=glpk test"
+- support lp_solve  "make SOLVER=lpsolve test"
+- support SYMPHONY  "make SOLVER=symphony test"
+
+MIPLIB 2010 version 1.0.2
+===============
+
+features:
+- support Gurobi version 4.5.0 and higher
+
+instances:
+- ns2122603 turned out to be feasible, removed from infeasible test set
+- runs with CPLEX 12.3 and 12 threads changed some solution statuses:
+  blp-ic97 moved from open to hard, 50v-10, atlanta-ip, co-100, 
+  ic97_potential, neos-1620770, nobel-eu-DBE, npmv07, ns1685374,
+  ofi, rococoB10-011000, and satellites2-60 moved from hard to easy
