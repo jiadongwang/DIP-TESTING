@@ -1,11 +1,11 @@
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 *                                                                           *
-*            This file is part of the test engine for MIPLIB2010            *
+*            This file is part of the test engine for TESTING MILP SOLVER           *
 *                                                                           *
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 
-Here is what you have to do to get MIPLIB2010 running:
+Here is what you have to do to get MIPLIB2010 and decomplib running:
 
 1. compile the solution checker using the command "make checker"
 
@@ -18,7 +18,7 @@ Here is what you have to do to get MIPLIB2010 running:
    - bin/mosek -> ...      for MOSEK
    - bin/scip -> ...       for SCIP
    - bin/xpress -> ...     for XPRESS
-
+   - bin/dip -> ...        for DIP
    It is also possible to compare different versions of a SOLVER. For this
    purpose, you need to create soft-links bin/SOLVER.IDENTIFIER. Please,
    stick to the notation SOLVER.IDENTIFIER where IDENTIFIER should be a
@@ -60,7 +60,7 @@ Here is what you have to do to get MIPLIB2010 running:
    - "THREADS=0"             to set the number if threads to use, 0 means as many wanted (default)
 
 -----------------------------------------------------------------------------
-
+   
 4. The script provides an option to generate performance profile on results of different solvers
    The following line generates the performance profile to cplex_dip.eps of two results file from 
    decomp.cplex.res and decomp.dip.res
