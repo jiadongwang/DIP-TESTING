@@ -1,0 +1,29 @@
+Linux polyp2 2.6.32-5-amd64 #1 SMP Mon Feb 25 00:26:11 UTC 2013 x86_64 GNU/Linux
+Mon Mar 17 14:30:02 EDT 2014
+MIPLIB script version 1.0.3
+hard mem limit: 8388608 k
+@01 instances/decomplib/atm_miplib2010.mps ===========
+-----------------------------
+Mon Mar 17 14:30:02 EDT 2014
+-----------------------------
+@03 1395081002
+PID 7194 on polyp2 ready for attach
+
+========================================================
+========================================================
+Welcome to the DIP Decomposition Framework
+Copyright 2002-2013 Lehigh University and others
+All Rights Reserved
+Distributed under the Eclipse Public License 1.0
+Version: trunk
+Build Date: Mar 17 2014
+Revision Number: 1052
+========================================================
+========================================================
+==  Welcome to the Abstract Library for Parallel Search (ALPS) 
+==  Copyright 2000-2013 Lehigh University and others 
+==  All Rights Reserved. 
+==  Distributed under the Eclipse Public License 1.0 
+==  Version: Trunk (unstable) 
+==  Build Date: Mar 17 2014
+==  Revision Number: 1900

@@ -1,0 +1,2209 @@
+Linux polyp1 2.6.32-5-amd64 #1 SMP Mon Sep 23 22:14:43 UTC 2013 x86_64 GNU/Linux
+Mon Feb 10 14:10:06 EST 2014
+MIPLIB script version 1.0.3
+hard mem limit: 8388608 k
+@01 instances/decomplib/atm_miplib2010.mps ===========
+-----------------------------
+Mon Feb 10 14:10:06 EST 2014
+-----------------------------
+@03 1392059406
+
+========================================================
+========================================================
+Welcome to the DIP Decomposition Framework
+Copyright 2002-2013 Lehigh University and others
+All Rights Reserved
+Distributed under the Eclipse Public License 1.0
+Version: trunk
+Build Date: Feb 10 2014
+Revision Number: 1023
+========================================================
+========================================================
+The file name is instances/decomplib/atm_miplib2010.dec
+==  Welcome to the Abstract Library for Parallel Search (ALPS) 
+==  Copyright 2000-2013 Lehigh University and others 
+==  All Rights Reserved. 
+==  Distributed under the Eclipse Public License 1.0 
+==  Version: Trunk (unstable) 
+==  Build Date: Feb  9 2014
+==  Revision Number: 1872
+Alps0250I Starting search ...
+Alps0240I Proc: 0, Part: 1, Cand: 0, Best N: 2463113.3, Best S: 3202063.8
+
+Alps0230I Reached time limit. 0 nodes processed, 1 nodes left
+Alps0261I Best solution found had quality 3202063.8 and was found at depth 0
+Alps0265I Number of nodes fully processed:          0
+Alps0266I Number of nodes partially processed:      1
+Alps0267I Number of nodes branched:                 0
+Alps0268I Number of nodes pruned before processing: 0
+Alps0270I Number of nodes left:                     1
+Alps0272I Tree depth: 0
+Alps0274I Search CPU time: 101.85 seconds
+Alps0278I Search wall-clock time: 102.10 seconds
+
+================ DECOMP Statistics [BEGIN]: ===============                
+Total Decomp          =     102.14    100.00     1102.14               
+Total Solve Relax     =     983.51    962.94   120 25.51               
+Total Solve Relax App =       0.00      0.00   120  0.00               
+Total Solution Update =       0.22      0.22     9  0.21               
+Total Generate Cuts   =       0.00      0.00     0  0.00               
+Total Generate Vars   =     101.79     99.66     5 25.51               
+Total Compress Cols   =       0.00      0.00     2  0.00
+================ DECOMP Statistics [END  ]: =============== 
+                                             
+============== DECOMP Solution Info [Begin]: ============= 
+Status        = TimeLimit
+BestLB        = 2463113.33416
+BestUB        = 3202063.75358
+OptiGap       =    0.30001
+Nodes         = 0
+ SetupCPU      = 11.20
+ SolveCPU      = 101.85
+ TotalCPU      = 113.06
+ SetupWallclock= 11.39
+ SolveWallclock= 102.14
+ TotalWallclock= 113.53
+ ============== DECOMP Solution Info [END  ]: ============= 
+
+@04 1392059519
+@05 100
+WARNING: solution cannot be checked because solution checker is missing
+-----------------------------
+Mon Feb 10 14:11:59 EST 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/colore_errera.mps ===========
+-----------------------------
+Mon Feb 10 14:11:59 EST 2014
+-----------------------------
+@03 1392059519
+
+========================================================
+========================================================
+Welcome to the DIP Decomposition Framework
+Copyright 2002-2013 Lehigh University and others
+All Rights Reserved
+Distributed under the Eclipse Public License 1.0
+Version: trunk
+Build Date: Feb 10 2014
+Revision Number: 1023
+========================================================
+========================================================
+The file name is instances/decomplib/colore_errera.dec
+==  Welcome to the Abstract Library for Parallel Search (ALPS) 
+==  Copyright 2000-2013 Lehigh University and others 
+==  All Rights Reserved. 
+==  Distributed under the Eclipse Public License 1.0 
+==  Version: Trunk (unstable) 
+==  Build Date: Feb  9 2014
+==  Revision Number: 1872
+Alps0250I Starting search ...
+Alps0240I Proc: 0, Part: 1, Cand: 0, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 10, Part: 2, Cand: 9, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 10, Part: 3, Cand: 8, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 10, Part: 4, Cand: 7, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 10, Part: 5, Cand: 6, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 10, Part: 6, Cand: 5, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 10, Part: 7, Cand: 4, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 10, Part: 8, Cand: 3, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 20, Part: 6, Cand: 15, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 20, Part: 7, Cand: 14, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 20, Part: 8, Cand: 13, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 20, Part: 9, Cand: 12, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 20, Part: 10, Cand: 11, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 30, Part: 7, Cand: 24, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 30, Part: 8, Cand: 23, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 30, Part: 9, Cand: 22, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 30, Part: 10, Cand: 21, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 30, Part: 11, Cand: 20, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 30, Part: 12, Cand: 19, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 40, Part: 15, Cand: 26, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 50, Part: 18, Cand: 33, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 50, Part: 19, Cand: 32, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 50, Part: 20, Cand: 31, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 50, Part: 21, Cand: 30, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 50, Part: 22, Cand: 29, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 60, Part: 26, Cand: 35, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 70, Part: 29, Cand: 42, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 80, Part: 32, Cand: 49, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 90, Part: 35, Cand: 56, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 100, Part: 39, Cand: 62, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 110, Part: 43, Cand: 68, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 120, Part: 47, Cand: 74, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 130, Part: 54, Cand: 77, Best N: 6, Best S: 1e+75
+Alps0240I Proc: 140, Part: 58, Cand: 81, Best N: 6, Best S: 6
+
+Alps0208I Search completed.
+Alps0261I Best solution found had quality 6 and was found at depth 274
+Alps0265I Number of nodes fully processed:          140
+Alps0266I Number of nodes partially processed:      58
+Alps0267I Number of nodes branched:                 139
+Alps0268I Number of nodes pruned before processing: 81
+Alps0270I Number of nodes left:                     0
+Alps0272I Tree depth: 24
+Alps0274I Search CPU time: 22.94 seconds
+Alps0278I Search wall-clock time: 23.69 seconds
+
+================ DECOMP Statistics [BEGIN]: ===============                
+Total Decomp          =      23.27    100.00   198  1.73               
+Total Solve Relax     =      25.07    107.76  3552  0.07               
+Total Solve Relax App =       0.00      0.02  3552  0.00               
+Total Solution Update =       4.95     21.29   855  0.07               
+Total Generate Cuts   =       0.00      0.00   198  0.00               
+Total Generate Vars   =       6.95     29.89   591  0.07               
+Total Compress Cols   =       0.01      0.03    13  0.00
+================ DECOMP Statistics [END  ]: =============== 
+                                             
+============== DECOMP Solution Info [Begin]: ============= 
+Status        = Optimal
+BestLB        =    6.00000
+BestUB        =    6.00000
+OptiGap       =    0.00000
+Nodes         = 140
+ SetupCPU      = 0.03
+ SolveCPU      = 22.94
+ TotalCPU      = 22.97
+ SetupWallclock= 0.06
+ SolveWallclock= 23.70
+ TotalWallclock= 23.76
+ ============== DECOMP Solution Info [END  ]: ============= 
+Optimal Solution is 
+           IsColor[1,5,1]   1.00000000
+           IsColor[2,8,1]   1.00000000
+          IsColor[3,11,1]   1.00000000
+          IsColor[4,13,1]   1.00000000
+          IsColor[6,16,1]   1.00000000
+          IsColor[7,17,1]   1.00000000
+          IsColor[9,14,1]   1.00000000
+         IsColor[10,15,1]   1.00000000
+          IsColor[1,10,2]   1.00000000
+           IsColor[2,9,2]   1.00000000
+          IsColor[3,15,2]   1.00000000
+          IsColor[4,11,2]   1.00000000
+          IsColor[5,16,2]   1.00000000
+          IsColor[6,13,2]   1.00000000
+          IsColor[7,14,2]   1.00000000
+         IsColor[12,17,2]   1.00000000
+          IsColor[1,17,3]   1.00000000
+          IsColor[3,10,3]   1.00000000
+          IsColor[4,16,3]   1.00000000
+          IsColor[5,11,3]   1.00000000
+          IsColor[6,14,3]   1.00000000
+          IsColor[7,12,3]   1.00000000
+          IsColor[8,13,3]   1.00000000
+          IsColor[9,15,3]   1.00000000
+          IsColor[1,12,4]   1.00000000
+          IsColor[2,14,4]   1.00000000
+           IsColor[3,5,4]   1.00000000
+           IsColor[4,6,4]   1.00000000
+           IsColor[7,9,4]   1.00000000
+          IsColor[8,15,4]   1.00000000
+         IsColor[10,17,4]   1.00000000
+         IsColor[11,16,4]   1.00000000
+          IsColor[2,13,5]   1.00000000
+           IsColor[4,8,5]   1.00000000
+           IsColor[6,7,5]   1.00000000
+          IsColor[9,10,5]   1.00000000
+         IsColor[11,15,5]   1.00000000
+         IsColor[12,16,5]   1.00000000
+           IsColor[1,3,6]   1.00000000
+          IsColor[2,15,6]   1.00000000
+          IsColor[5,12,6]   1.00000000
+          IsColor[7,16,6]   1.00000000
+          IsColor[8,11,6]   1.00000000
+          IsColor[9,17,6]   1.00000000
+         IsColor[13,14,6]   1.00000000
+              UseColor[1]   1.00000000
+              UseColor[2]   1.00000000
+              UseColor[3]   1.00000000
+              UseColor[4]   1.00000000
+              UseColor[5]   1.00000000
+              UseColor[6]   1.00000000
+ Optimal Solution can be found in the file /home/jiw508/miplib2010-1.0.3/BOX/miplib2010-1.0.4/results/solutions/decomp.dip.colore_errera.mps.sol
+
+@04 1392059543
+@05 100
+WARNING: solution cannot be checked because solution checker is missing
+-----------------------------
+Mon Feb 10 14:12:23 EST 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/gap42.mps ===========
+-----------------------------
+Mon Feb 10 14:12:23 EST 2014
+-----------------------------
+@03 1392059543
+
+========================================================
+========================================================
+Welcome to the DIP Decomposition Framework
+Copyright 2002-2013 Lehigh University and others
+All Rights Reserved
+Distributed under the Eclipse Public License 1.0
+Version: trunk
+Build Date: Feb 10 2014
+Revision Number: 1023
+========================================================
+========================================================
+The file name is instances/decomplib/gap42.dec
+==  Welcome to the Abstract Library for Parallel Search (ALPS) 
+==  Copyright 2000-2013 Lehigh University and others 
+==  All Rights Reserved. 
+==  Distributed under the Eclipse Public License 1.0 
+==  Version: Trunk (unstable) 
+==  Build Date: Feb  9 2014
+==  Revision Number: 1872
+Alps0250I Starting search ...
+Alps0240I Proc: 0, Part: 1, Cand: 0, Best N: -700.40589, Best S: 1e+75
+Alps0240I Proc: 10, Part: 8, Cand: 1, Best N: -682.94578, Best S: -642
+Alps0240I Proc: 10, Part: 9, Cand: 0, Best N: -682.56623, Best S: -642
+Alps0240I Proc: 17, Part: 12, Cand: 0, Best N: -669.80851, Best S: -644
+Alps0240I Proc: 20, Part: 13, Cand: 2, Best N: -668.14286, Best S: -644
+Alps0240I Proc: 20, Part: 14, Cand: 1, Best N: -668.14286, Best S: -644
+Alps0240I Proc: 20, Part: 15, Cand: 0, Best N: -667.05369, Best S: -644
+Alps0240I Proc: 30, Part: 15, Cand: 2, Best N: -657.33937, Best S: -644
+Alps0240I Proc: 40, Part: 13, Cand: 0, Best N: -653.96855, Best S: -644
+Alps0240I Proc: 50, Part: 9, Cand: 2, Best N: -650.75, Best S: -644
+Alps0240I Proc: 60, Part: 6, Cand: 1, Best N: -647, Best S: -644
+Alps0240I Proc: 70, Part: 4, Cand: 1, Best N: -645.25, Best S: -644
+Alps0240I Proc: 73, Part: 3, Cand: 1, Best N: -645.21429, Best S: -644
+
+Alps0208I Search completed.
+Alps0261I Best solution found had quality -644 and was found at depth 75
+Alps0265I Number of nodes fully processed:          77
+Alps0266I Number of nodes partially processed:      2
+Alps0267I Number of nodes branched:                 39
+Alps0268I Number of nodes pruned before processing: 0
+Alps0270I Number of nodes left:                     0
+Alps0272I Tree depth: 9
+Alps0274I Search CPU time: 30.63 seconds
+Alps0278I Search wall-clock time: 33.87 seconds
+
+================ DECOMP Statistics [BEGIN]: ===============                
+Total Decomp          =      33.82    100.00    79  1.64               
+Total Solve Relax     =      89.34    264.20  5555  0.05               
+Total Solve Relax App =       0.01      0.02  5555  0.00               
+Total Solution Update =       1.81      5.37  1709  0.02               
+Total Generate Cuts   =       0.00      0.00     4  0.00               
+Total Generate Vars   =      29.75     87.98  1110  0.05               
+Total Compress Cols   =       0.12      0.35   494  0.00
+================ DECOMP Statistics [END  ]: =============== 
+                                             
+============== DECOMP Solution Info [Begin]: ============= 
+Status        = Optimal
+BestLB        = -644.00000
+BestUB        = -644.00000
+OptiGap       =    0.00000
+Nodes         = 77
+ SetupCPU      = 0.03
+ SolveCPU      = 30.63
+ TotalCPU      = 30.66
+ SetupWallclock= 0.06
+ SolveWallclock= 33.89
+ TotalWallclock= 33.94
+ ============== DECOMP Solution Info [END  ]: ============= 
+Optimal Solution is 
+                    x#1#4   1.00000000
+                    x#1#6   1.00000000
+                    x#1#8   1.00000000
+                   x#1#13   1.00000000
+                   x#1#26   1.00000000
+                   x#1#28   1.00000000
+                    x#2#5   1.00000000
+                   x#2#10   1.00000000
+                   x#2#12   1.00000000
+                   x#2#17   1.00000000
+                   x#2#25   1.00000000
+                   x#2#30   1.00000000
+                    x#3#1   1.00000000
+                    x#3#2   1.00000000
+                    x#3#7   1.00000000
+                   x#3#11   1.00000000
+                   x#3#20   1.00000000
+                   x#3#23   1.00000000
+                    x#4#9   1.00000000
+                   x#4#14   1.00000000
+                   x#4#18   1.00000000
+                   x#4#21   1.00000000
+                   x#4#24   1.00000000
+                   x#4#27   1.00000000
+                    x#5#3   1.00000000
+                   x#5#15   1.00000000
+                   x#5#16   1.00000000
+                   x#5#19   1.00000000
+                   x#5#22   1.00000000
+                   x#5#29   1.00000000
+ Optimal Solution can be found in the file /home/jiw508/miplib2010-1.0.3/BOX/miplib2010-1.0.4/results/solutions/decomp.dip.gap42.mps.sol
+
+@04 1392059577
+@05 100
+WARNING: solution cannot be checked because solution checker is missing
+-----------------------------
+Mon Feb 10 14:12:57 EST 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/kidney2_10_9.mps ===========
+-----------------------------
+Mon Feb 10 14:12:57 EST 2014
+-----------------------------
+@03 1392059577
+
+========================================================
+========================================================
+Welcome to the DIP Decomposition Framework
+Copyright 2002-2013 Lehigh University and others
+All Rights Reserved
+Distributed under the Eclipse Public License 1.0
+Version: trunk
+Build Date: Feb 10 2014
+Revision Number: 1023
+========================================================
+========================================================
+The file name is instances/decomplib/kidney2_10_9.dec
+==  Welcome to the Abstract Library for Parallel Search (ALPS) 
+==  Copyright 2000-2013 Lehigh University and others 
+==  All Rights Reserved. 
+==  Distributed under the Eclipse Public License 1.0 
+==  Version: Trunk (unstable) 
+==  Build Date: Feb  9 2014
+==  Revision Number: 1872
+Alps0250I Starting search ...
+Alps0240I Proc: 1, Part: 0, Cand: 0, Best N: 1e+75, Best S: 0
+
+Alps0208I Search completed.
+Alps0261I Best solution found had quality 0 and was found at depth 0
+Alps0264I Number of nodes processed:                1
+Alps0267I Number of nodes branched:                 0
+Alps0268I Number of nodes pruned before processing: 0
+Alps0270I Number of nodes left:                     0
+Alps0272I Tree depth: 0
+Alps0274I Search CPU time: 0.04 seconds
+Alps0278I Search wall-clock time: 0.04 seconds
+
+================ DECOMP Statistics [BEGIN]: ===============                
+Total Decomp          =       0.04    100.00     1  0.04               
+Total Solve Relax     =       0.53   1356.10    18  0.06               
+Total Solve Relax App =       0.00      0.04    18  0.00               
+Total Solution Update =       0.01     30.15     2  0.01               
+Total Generate Cuts   =       0.00      0.00     0  0.00               
+Total Generate Vars   =       0.01     24.69     1  0.01               
+Total Compress Cols   =       0.00      0.00     0  0.00
+================ DECOMP Statistics [END  ]: =============== 
+                                             
+============== DECOMP Solution Info [Begin]: ============= 
+Status        = Optimal
+BestLB        =    0.00000
+BestUB        =    0.00000
+OptiGap       =    0.00000
+Nodes         = 1
+ SetupCPU      = 0.10
+ SolveCPU      = 0.04
+ TotalCPU      = 0.14
+ SetupWallclock= 0.13
+ SolveWallclock= 0.04
+ TotalWallclock= 0.17
+ ============== DECOMP Solution Info [END  ]: ============= 
+Optimal Solution is 
+                 Slack[3]   1.00000000
+                Slack[16]   1.00000000
+                 Slack[4]   1.00000000
+                Slack[51]   1.00000000
+                Slack[52]   1.00000000
+                Slack[68]   1.00000000
+                Slack[88]   1.00000000
+                 Slack[5]   1.00000000
+                 Slack[2]   1.00000000
+                Slack[11]   1.00000000
+                 Slack[6]   1.00000000
+                Slack[18]   1.00000000
+                Slack[20]   1.00000000
+                 Slack[7]   1.00000000
+                Slack[97]   1.00000000
+                 Slack[8]   1.00000000
+                Slack[72]   1.00000000
+                 Slack[9]   1.00000000
+                Slack[32]   1.00000000
+                Slack[33]   1.00000000
+                Slack[56]   1.00000000
+                Slack[57]   1.00000000
+                Slack[10]   1.00000000
+                Slack[19]   1.00000000
+                Slack[44]   1.00000000
+                Slack[76]   1.00000000
+                Slack[80]   1.00000000
+                Slack[23]   1.00000000
+                Slack[12]   1.00000000
+                Slack[74]   1.00000000
+                Slack[96]   1.00000000
+                Slack[13]   1.00000000
+                Slack[14]   1.00000000
+                Slack[31]   1.00000000
+                Slack[34]   1.00000000
+                Slack[46]   1.00000000
+                Slack[89]   1.00000000
+                Slack[37]   1.00000000
+                Slack[54]   1.00000000
+                Slack[75]   1.00000000
+                Slack[15]   1.00000000
+                Slack[24]   1.00000000
+                Slack[65]   1.00000000
+                Slack[17]   1.00000000
+                Slack[53]   1.00000000
+                Slack[92]   1.00000000
+                Slack[27]   1.00000000
+                Slack[58]   1.00000000
+                Slack[81]   1.00000000
+                Slack[61]   1.00000000
+                Slack[21]   1.00000000
+                Slack[22]   1.00000000
+                Slack[90]   1.00000000
+                Slack[25]   1.00000000
+                Slack[93]   1.00000000
+                Slack[26]   1.00000000
+                Slack[69]   1.00000000
+                Slack[28]   1.00000000
+                Slack[38]   1.00000000
+                Slack[29]   1.00000000
+                Slack[30]   1.00000000
+                Slack[66]   1.00000000
+                Slack[99]   1.00000000
+                Slack[62]   1.00000000
+                Slack[71]   1.00000000
+                Slack[86]   1.00000000
+                Slack[94]   1.00000000
+                Slack[95]   1.00000000
+                Slack[35]   1.00000000
+                Slack[36]   1.00000000
+                Slack[60]   1.00000000
+                Slack[50]   1.00000000
+                Slack[39]   1.00000000
+                Slack[41]   1.00000000
+                Slack[40]   1.00000000
+                Slack[42]   1.00000000
+                Slack[45]   1.00000000
+                Slack[47]   1.00000000
+                Slack[82]   1.00000000
+                Slack[48]   1.00000000
+                Slack[78]   1.00000000
+                Slack[91]   1.00000000
+                Slack[55]   1.00000000
+                Slack[59]   1.00000000
+                Slack[63]   1.00000000
+                Slack[64]   1.00000000
+                Slack[87]   1.00000000
+                Slack[67]   1.00000000
+                Slack[73]   1.00000000
+                Slack[70]   1.00000000
+                Slack[85]   1.00000000
+                Slack[77]   1.00000000
+                Slack[79]   1.00000000
+                Slack[83]   1.00000000
+                Slack[84]   1.00000000
+                Slack[98]   1.00000000
+               Slack[100]   1.00000000
+ Optimal Solution can be found in the file /home/jiw508/miplib2010-1.0.3/BOX/miplib2010-1.0.4/results/solutions/decomp.dip.kidney2_10_9.mps.sol
+
+@04 1392059577
+@05 100
+WARNING: solution cannot be checked because solution checker is missing
+-----------------------------
+Mon Feb 10 14:12:57 EST 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/kidney3_20_50.mps ===========
+-----------------------------
+Mon Feb 10 14:12:57 EST 2014
+-----------------------------
+@03 1392059577
+
+========================================================
+========================================================
+Welcome to the DIP Decomposition Framework
+Copyright 2002-2013 Lehigh University and others
+All Rights Reserved
+Distributed under the Eclipse Public License 1.0
+Version: trunk
+Build Date: Feb 10 2014
+Revision Number: 1023
+========================================================
+========================================================
+The file name is instances/decomplib/kidney3_20_50.dec
+==  Welcome to the Abstract Library for Parallel Search (ALPS) 
+==  Copyright 2000-2013 Lehigh University and others 
+==  All Rights Reserved. 
+==  Distributed under the Eclipse Public License 1.0 
+==  Version: Trunk (unstable) 
+==  Build Date: Feb  9 2014
+==  Revision Number: 1872
+Alps0250I Starting search ...
+Alps0240I Proc: 1, Part: 0, Cand: 0, Best N: 1e+75, Best S: 0
+
+Alps0208I Search completed.
+Alps0261I Best solution found had quality 0 and was found at depth 0
+Alps0264I Number of nodes processed:                1
+Alps0267I Number of nodes branched:                 0
+Alps0268I Number of nodes pruned before processing: 0
+Alps0270I Number of nodes left:                     0
+Alps0272I Tree depth: 0
+Alps0274I Search CPU time: 1.19 seconds
+Alps0278I Search wall-clock time: 1.20 seconds
+
+================ DECOMP Statistics [BEGIN]: ===============                
+Total Decomp          =       1.18    100.00     1  1.18               
+Total Solve Relax     =      77.51   6541.26   100  1.54               
+Total Solve Relax App =       0.00      0.03   100  0.00               
+Total Solution Update =       0.22     18.23     2  0.21               
+Total Generate Cuts   =       0.00      0.00     0  0.00               
+Total Generate Vars   =       0.34     28.96     1  0.34               
+Total Compress Cols   =       0.00      0.00     0  0.00
+================ DECOMP Statistics [END  ]: =============== 
+                                             
+============== DECOMP Solution Info [Begin]: ============= 
+Status        = Optimal
+BestLB        =    0.00000
+BestUB        =    0.00000
+OptiGap       =    0.00000
+Nodes         = 1
+ SetupCPU      = 3.62
+ SolveCPU      = 1.20
+ TotalCPU      = 4.82
+ SetupWallclock= 3.82
+ SolveWallclock= 1.20
+ TotalWallclock= 5.03
+ ============== DECOMP Solution Info [END  ]: ============= 
+Optimal Solution is 
+                 Slack[1]   1.00000000
+               Slack[214]   1.00000000
+                 Slack[2]   1.00000000
+                Slack[49]   1.00000000
+                Slack[50]   1.00000000
+                Slack[66]   1.00000000
+                Slack[86]   1.00000000
+               Slack[100]   1.00000000
+               Slack[108]   1.00000000
+               Slack[216]   1.00000000
+                 Slack[3]   1.00000000
+                Slack[93]   1.00000000
+               Slack[167]   1.00000000
+               Slack[203]   1.00000000
+               Slack[226]   1.00000000
+               Slack[227]   1.00000000
+               Slack[250]   1.00000000
+               Slack[251]   1.00000000
+                 Slack[4]   1.00000000
+                Slack[13]   1.00000000
+                Slack[38]   1.00000000
+                Slack[70]   1.00000000
+                Slack[74]   1.00000000
+               Slack[116]   1.00000000
+               Slack[266]   1.00000000
+               Slack[288]   1.00000000
+                 Slack[5]   1.00000000
+                 Slack[6]   1.00000000
+                Slack[23]   1.00000000
+                Slack[26]   1.00000000
+                Slack[81]   1.00000000
+               Slack[128]   1.00000000
+               Slack[145]   1.00000000
+               Slack[166]   1.00000000
+               Slack[242]   1.00000000
+               Slack[296]   1.00000000
+                Slack[55]   1.00000000
+               Slack[142]   1.00000000
+               Slack[181]   1.00000000
+               Slack[215]   1.00000000
+               Slack[246]   1.00000000
+               Slack[269]   1.00000000
+                 Slack[7]   1.00000000
+                Slack[19]   1.00000000
+                Slack[44]   1.00000000
+                Slack[84]   1.00000000
+               Slack[144]   1.00000000
+               Slack[148]   1.00000000
+               Slack[196]   1.00000000
+                 Slack[8]   1.00000000
+                Slack[62]   1.00000000
+                Slack[76]   1.00000000
+               Slack[174]   1.00000000
+               Slack[209]   1.00000000
+                 Slack[9]   1.00000000
+                Slack[77]   1.00000000
+               Slack[127]   1.00000000
+               Slack[152]   1.00000000
+               Slack[193]   1.00000000
+                Slack[10]   1.00000000
+                Slack[20]   1.00000000
+               Slack[153]   1.00000000
+               Slack[279]   1.00000000
+               Slack[292]   1.00000000
+                Slack[11]   1.00000000
+                Slack[42]   1.00000000
+               Slack[168]   1.00000000
+               Slack[190]   1.00000000
+               Slack[192]   1.00000000
+               Slack[208]   1.00000000
+               Slack[258]   1.00000000
+               Slack[291]   1.00000000
+                Slack[12]   1.00000000
+                Slack[30]   1.00000000
+                Slack[64]   1.00000000
+                Slack[72]   1.00000000
+                Slack[73]   1.00000000
+               Slack[131]   1.00000000
+               Slack[139]   1.00000000
+               Slack[186]   1.00000000
+               Slack[236]   1.00000000
+               Slack[260]   1.00000000
+               Slack[287]   1.00000000
+                Slack[14]   1.00000000
+                Slack[85]   1.00000000
+               Slack[232]   1.00000000
+               Slack[237]   1.00000000
+                Slack[15]   1.00000000
+                Slack[88]   1.00000000
+                Slack[16]   1.00000000
+                Slack[63]   1.00000000
+                Slack[17]   1.00000000
+                Slack[80]   1.00000000
+                Slack[89]   1.00000000
+               Slack[104]   1.00000000
+               Slack[159]   1.00000000
+               Slack[217]   1.00000000
+               Slack[248]   1.00000000
+                Slack[18]   1.00000000
+                Slack[96]   1.00000000
+               Slack[114]   1.00000000
+               Slack[130]   1.00000000
+               Slack[143]   1.00000000
+               Slack[254]   1.00000000
+               Slack[255]   1.00000000
+                Slack[40]   1.00000000
+               Slack[176]   1.00000000
+               Slack[283]   1.00000000
+                Slack[51]   1.00000000
+               Slack[103]   1.00000000
+               Slack[121]   1.00000000
+               Slack[207]   1.00000000
+               Slack[212]   1.00000000
+                Slack[21]   1.00000000
+               Slack[187]   1.00000000
+                Slack[22]   1.00000000
+                Slack[34]   1.00000000
+               Slack[122]   1.00000000
+               Slack[197]   1.00000000
+               Slack[199]   1.00000000
+               Slack[243]   1.00000000
+               Slack[253]   1.00000000
+               Slack[282]   1.00000000
+                Slack[79]   1.00000000
+               Slack[118]   1.00000000
+               Slack[281]   1.00000000
+                Slack[24]   1.00000000
+                Slack[39]   1.00000000
+               Slack[110]   1.00000000
+               Slack[223]   1.00000000
+               Slack[290]   1.00000000
+                Slack[25]   1.00000000
+               Slack[158]   1.00000000
+               Slack[170]   1.00000000
+               Slack[231]   1.00000000
+               Slack[189]   1.00000000
+               Slack[230]   1.00000000
+                Slack[27]   1.00000000
+                Slack[57]   1.00000000
+               Slack[120]   1.00000000
+               Slack[299]   1.00000000
+                Slack[28]   1.00000000
+               Slack[140]   1.00000000
+               Slack[205]   1.00000000
+               Slack[264]   1.00000000
+                Slack[29]   1.00000000
+               Slack[154]   1.00000000
+               Slack[175]   1.00000000
+               Slack[201]   1.00000000
+               Slack[234]   1.00000000
+                Slack[59]   1.00000000
+                Slack[87]   1.00000000
+               Slack[123]   1.00000000
+               Slack[273]   1.00000000
+                Slack[31]   1.00000000
+                Slack[43]   1.00000000
+                Slack[58]   1.00000000
+                Slack[67]   1.00000000
+               Slack[126]   1.00000000
+               Slack[164]   1.00000000
+               Slack[221]   1.00000000
+               Slack[257]   1.00000000
+               Slack[272]   1.00000000
+                Slack[32]   1.00000000
+               Slack[134]   1.00000000
+               Slack[173]   1.00000000
+                Slack[33]   1.00000000
+               Slack[109]   1.00000000
+               Slack[149]   1.00000000
+               Slack[241]   1.00000000
+                Slack[41]   1.00000000
+                Slack[35]   1.00000000
+               Slack[261]   1.00000000
+                Slack[36]   1.00000000
+               Slack[294]   1.00000000
+               Slack[298]   1.00000000
+                Slack[37]   1.00000000
+               Slack[259]   1.00000000
+               Slack[229]   1.00000000
+               Slack[150]   1.00000000
+               Slack[188]   1.00000000
+               Slack[275]   1.00000000
+               Slack[137]   1.00000000
+               Slack[274]   1.00000000
+               Slack[141]   1.00000000
+               Slack[228]   1.00000000
+               Slack[244]   1.00000000
+               Slack[191]   1.00000000
+               Slack[151]   1.00000000
+               Slack[179]   1.00000000
+                Slack[45]   1.00000000
+               Slack[198]   1.00000000
+               Slack[218]   1.00000000
+               Slack[268]   1.00000000
+                Slack[46]   1.00000000
+                Slack[53]   1.00000000
+                Slack[91]   1.00000000
+               Slack[245]   1.00000000
+               Slack[249]   1.00000000
+               Slack[278]   1.00000000
+                Slack[47]   1.00000000
+               Slack[289]   1.00000000
+                Slack[48]   1.00000000
+                Slack[90]   1.00000000
+               Slack[169]   1.00000000
+               Slack[107]   1.00000000
+               Slack[277]   1.00000000
+               Slack[300]   1.00000000
+                Slack[95]   1.00000000
+               Slack[101]   1.00000000
+               Slack[194]   1.00000000
+               Slack[267]   1.00000000
+                Slack[52]   1.00000000
+               Slack[102]   1.00000000
+               Slack[160]   1.00000000
+                Slack[54]   1.00000000
+               Slack[211]   1.00000000
+               Slack[112]   1.00000000
+                Slack[56]   1.00000000
+                Slack[83]   1.00000000
+               Slack[113]   1.00000000
+               Slack[182]   1.00000000
+               Slack[138]   1.00000000
+               Slack[285]   1.00000000
+               Slack[136]   1.00000000
+                Slack[60]   1.00000000
+               Slack[224]   1.00000000
+                Slack[61]   1.00000000
+               Slack[124]   1.00000000
+               Slack[161]   1.00000000
+               Slack[172]   1.00000000
+               Slack[271]   1.00000000
+                Slack[99]   1.00000000
+               Slack[106]   1.00000000
+               Slack[284]   1.00000000
+                Slack[65]   1.00000000
+               Slack[270]   1.00000000
+               Slack[180]   1.00000000
+               Slack[235]   1.00000000
+                Slack[68]   1.00000000
+                Slack[69]   1.00000000
+                Slack[98]   1.00000000
+               Slack[125]   1.00000000
+               Slack[239]   1.00000000
+                Slack[71]   1.00000000
+               Slack[129]   1.00000000
+                Slack[75]   1.00000000
+               Slack[210]   1.00000000
+               Slack[184]   1.00000000
+                Slack[78]   1.00000000
+               Slack[204]   1.00000000
+                Slack[94]   1.00000000
+               Slack[156]   1.00000000
+               Slack[183]   1.00000000
+               Slack[240]   1.00000000
+               Slack[293]   1.00000000
+                Slack[82]   1.00000000
+               Slack[119]   1.00000000
+               Slack[157]   1.00000000
+               Slack[155]   1.00000000
+               Slack[105]   1.00000000
+               Slack[225]   1.00000000
+               Slack[222]   1.00000000
+                Slack[92]   1.00000000
+               Slack[117]   1.00000000
+               Slack[115]   1.00000000
+                Slack[97]   1.00000000
+               Slack[280]   1.00000000
+               Slack[135]   1.00000000
+               Slack[265]   1.00000000
+               Slack[220]   1.00000000
+               Slack[247]   1.00000000
+               Slack[252]   1.00000000
+               Slack[276]   1.00000000
+               Slack[213]   1.00000000
+               Slack[295]   1.00000000
+               Slack[233]   1.00000000
+               Slack[286]   1.00000000
+               Slack[111]   1.00000000
+               Slack[262]   1.00000000
+               Slack[178]   1.00000000
+               Slack[263]   1.00000000
+               Slack[133]   1.00000000
+               Slack[146]   1.00000000
+               Slack[195]   1.00000000
+               Slack[202]   1.00000000
+               Slack[185]   1.00000000
+               Slack[132]   1.00000000
+               Slack[200]   1.00000000
+               Slack[177]   1.00000000
+               Slack[206]   1.00000000
+               Slack[163]   1.00000000
+               Slack[297]   1.00000000
+               Slack[171]   1.00000000
+               Slack[147]   1.00000000
+               Slack[165]   1.00000000
+               Slack[219]   1.00000000
+               Slack[256]   1.00000000
+               Slack[162]   1.00000000
+               Slack[238]   1.00000000
+ Optimal Solution can be found in the file /home/jiw508/miplib2010-1.0.3/BOX/miplib2010-1.0.4/results/solutions/decomp.dip.kidney3_20_50.mps.sol
+
+@04 1392059583
+@05 100
+WARNING: solution cannot be checked because solution checker is missing
+-----------------------------
+Mon Feb 10 14:13:03 EST 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/n1c3w1a.mps ===========
+-----------------------------
+Mon Feb 10 14:13:03 EST 2014
+-----------------------------
+@03 1392059583
+
+========================================================
+========================================================
+Welcome to the DIP Decomposition Framework
+Copyright 2002-2013 Lehigh University and others
+All Rights Reserved
+Distributed under the Eclipse Public License 1.0
+Version: trunk
+Build Date: Feb 10 2014
+Revision Number: 1023
+========================================================
+========================================================
+The file name is instances/decomplib/n1c3w1a.dec
+==  Welcome to the Abstract Library for Parallel Search (ALPS) 
+==  Copyright 2000-2013 Lehigh University and others 
+==  All Rights Reserved. 
+==  Distributed under the Eclipse Public License 1.0 
+==  Version: Trunk (unstable) 
+==  Build Date: Feb  9 2014
+==  Revision Number: 1872
+Alps0250I Starting search ...
+Alps0240I Proc: 0, Part: 1, Cand: 0, Best N: 14.535884, Best S: 17
+Alps0240I Proc: 5, Part: 6, Cand: 0, Best N: 15.256358, Best S: 17
+Alps0240I Proc: 10, Part: 9, Cand: 2, Best N: 15.431388, Best S: 17
+Alps0240I Proc: 10, Part: 10, Cand: 1, Best N: 15.431388, Best S: 17
+Alps0240I Proc: 10, Part: 11, Cand: 0, Best N: 15.521914, Best S: 17
+Alps0240I Proc: 20, Part: 14, Cand: 7, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 30, Part: 15, Cand: 16, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 30, Part: 16, Cand: 15, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 30, Part: 17, Cand: 14, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 30, Part: 18, Cand: 13, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 30, Part: 19, Cand: 12, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 30, Part: 20, Cand: 11, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 40, Part: 15, Cand: 26, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 40, Part: 16, Cand: 25, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 40, Part: 17, Cand: 24, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 40, Part: 18, Cand: 23, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 40, Part: 19, Cand: 22, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 50, Part: 19, Cand: 32, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 60, Part: 20, Cand: 41, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 70, Part: 23, Cand: 48, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 80, Part: 20, Cand: 61, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 90, Part: 24, Cand: 67, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 100, Part: 20, Cand: 81, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 110, Part: 22, Cand: 89, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 120, Part: 23, Cand: 98, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 130, Part: 28, Cand: 103, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 140, Part: 26, Cand: 115, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 150, Part: 24, Cand: 127, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 160, Part: 30, Cand: 131, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 170, Part: 28, Cand: 143, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 180, Part: 26, Cand: 155, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 190, Part: 24, Cand: 167, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 200, Part: 29, Cand: 172, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 210, Part: 26, Cand: 185, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 220, Part: 28, Cand: 193, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 230, Part: 29, Cand: 202, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 240, Part: 24, Cand: 217, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 250, Part: 30, Cand: 221, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 250, Part: 30, Cand: 221, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 260, Part: 34, Cand: 227, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 270, Part: 35, Cand: 236, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 270, Part: 35, Cand: 236, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 270, Part: 35, Cand: 236, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 270, Part: 35, Cand: 236, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 270, Part: 35, Cand: 236, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 270, Part: 35, Cand: 236, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 275, Part: 34, Cand: 242, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 277, Part: 34, Cand: 244, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 280, Part: 35, Cand: 246, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 290, Part: 35, Cand: 256, Best N: 15.586854, Best S: 17
+Alps0240I Proc: 300, Part: 35, Cand: 266, Best N: 15.586854, Best S: 17
+
+Alps0230I Reached time limit. 306 nodes processed, 307 nodes left
+Alps0261I Best solution found had quality 17 and was found at depth 512
+Alps0265I Number of nodes fully processed:          306
+Alps0266I Number of nodes partially processed:      36
+Alps0267I Number of nodes branched:                 306
+Alps0268I Number of nodes pruned before processing: 0
+Alps0270I Number of nodes left:                     307
+Alps0272I Tree depth: 43
+Alps0274I Search CPU time: 99.89 seconds
+Alps0278I Search wall-clock time: 110.10 seconds
+
+================ DECOMP Statistics [BEGIN]: ===============                
+Total Decomp          =     104.83    100.00   990 27.61               
+Total Solve Relax     =    1079.03   1029.36  7872  1.06               
+Total Solve Relax App =       0.02      0.02  7872  0.00               
+Total Solution Update =       4.10      3.91  1398  0.19               
+Total Generate Cuts   =       0.00      0.00    11  0.00               
+Total Generate Vars   =      86.11     82.14   327  1.06               
+Total Compress Cols   =       0.06      0.06    90  0.00
+================ DECOMP Statistics [END  ]: =============== 
+                                             
+============== DECOMP Solution Info [Begin]: ============= 
+Status        = TimeLimit
+BestLB        =   15.58685
+BestUB        =   17.00000
+OptiGap       =    0.09066
+Nodes         = 306
+ SetupCPU      = 0.09
+ SolveCPU      = 99.90
+ TotalCPU      = 99.99
+ SetupWallclock= 0.15
+ SolveWallclock= 110.15
+ TotalWallclock= 110.30
+ ============== DECOMP Solution Info [END  ]: ============= 
+
+@04 1392059693
+@05 100
+WARNING: solution cannot be checked because solution checker is missing
+-----------------------------
+Mon Feb 10 14:14:53 EST 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/neos_911880.mps ===========
+-----------------------------
+Mon Feb 10 14:14:53 EST 2014
+-----------------------------
+@03 1392059693
+
+========================================================
+========================================================
+Welcome to the DIP Decomposition Framework
+Copyright 2002-2013 Lehigh University and others
+All Rights Reserved
+Distributed under the Eclipse Public License 1.0
+Version: trunk
+Build Date: Feb 10 2014
+Revision Number: 1023
+========================================================
+========================================================
+The file name is instances/decomplib/neos_911880.dec
+==  Welcome to the Abstract Library for Parallel Search (ALPS) 
+==  Copyright 2000-2013 Lehigh University and others 
+==  All Rights Reserved. 
+==  Distributed under the Eclipse Public License 1.0 
+==  Version: Trunk (unstable) 
+==  Build Date: Feb  9 2014
+==  Revision Number: 1872
+Alps0250I Starting search ...
+Alps0240I Proc: 0, Part: 1, Cand: 0, Best N: 54.76, Best S: 58.18
+Alps0240I Proc: 1, Part: 1, Cand: 1, Best N: 54.76, Best S: 56.48
+Alps0240I Proc: 3, Part: 2, Cand: 2, Best N: 54.76, Best S: 56.48
+Alps0240I Proc: 3, Part: 3, Cand: 1, Best N: 54.76, Best S: 55.62
+Alps0240I Proc: 5, Part: 2, Cand: 4, Best N: 54.76, Best S: 55.62
+Alps0240I Proc: 5, Part: 3, Cand: 3, Best N: 54.76, Best S: 55.09
+Alps0240I Proc: 9, Part: 10, Cand: 0, Best N: 54.76, Best S: 54.76
+
+Alps0208I Search completed.
+Alps0261I Best solution found had quality 54.76 and was found at depth 18
+Alps0265I Number of nodes fully processed:          9
+Alps0266I Number of nodes partially processed:      10
+Alps0267I Number of nodes branched:                 9
+Alps0268I Number of nodes pruned before processing: 0
+Alps0270I Number of nodes left:                     0
+Alps0272I Tree depth: 7
+Alps0274I Search CPU time: 13.48 seconds
+Alps0278I Search wall-clock time: 15.26 seconds
+
+================ DECOMP Statistics [BEGIN]: ===============                
+Total Decomp          =      15.21    100.00    19  4.37               
+Total Solve Relax     =     214.81   1412.28  1848  0.61               
+Total Solve Relax App =       0.00      0.03  1848  0.00               
+Total Solution Update =       0.14      0.92    79  0.01               
+Total Generate Cuts   =       0.00      0.00    23  0.00               
+Total Generate Vars   =      13.97     91.84    76  0.61               
+Total Compress Cols   =       0.00      0.01     2  0.00
+================ DECOMP Statistics [END  ]: =============== 
+                                             
+============== DECOMP Solution Info [Begin]: ============= 
+Status        = Optimal
+BestLB        =   54.76000
+BestUB        =   54.76000
+OptiGap       =    0.00000
+Nodes         = 9
+ SetupCPU      = 0.08
+ SolveCPU      = 13.48
+ TotalCPU      = 13.57
+ SetupWallclock= 0.14
+ SolveWallclock= 15.27
+ TotalWallclock= 15.42
+ ============== DECOMP Solution Info [END  ]: ============= 
+Optimal Solution is 
+                    C0001   19.00000000
+                    C0003   6.00000000
+                    C0026   1.81000000
+                    C0027   2.00000000
+                    C0028   3.90000000
+                    C0030   3.49000000
+                    C0032   0.14000000
+                    C0033   0.14000000
+                    C0035   1.58000000
+                    C0036   2.99000000
+                    C0040   2.67000000
+                    C0041   2.72000000
+                    C0042   2.07000000
+                    C0044   3.25000000
+                    C0045   2.91000000
+                    C0046   0.06000000
+                    C0048   0.03000000
+                    C0054   1.00000000
+                    C0094   1.00000000
+                    C0099   1.00000000
+                    C0124   1.00000000
+                    C0148   1.00000000
+                    C0180   1.00000000
+                    C0199   1.00000000
+                    C0222   1.00000000
+                    C0241   1.00000000
+                    C0267   1.00000000
+                    C0308   1.00000000
+                    C0321   1.00000000
+                    C0355   1.00000000
+                    C0362   1.00000000
+                    C0399   1.00000000
+                    C0426   1.00000000
+                    C0448   1.00000000
+                    C0472   1.00000000
+                    C0491   1.00000000
+                    C0521   1.00000000
+                    C0549   1.00000000
+                    C0570   1.00000000
+                    C0578   1.00000000
+                    C0623   1.00000000
+                    C0636   1.00000000
+                    C0669   1.00000000
+                    C0683   1.00000000
+                    C0701   1.00000000
+                    C0734   1.00000000
+                    C0754   1.00000000
+                    C0781   1.00000000
+                    C0812   1.00000000
+                    C0824   1.00000000
+                    C0857   1.00000000
+                    C0888   1.00000000
+ Optimal Solution can be found in the file /home/jiw508/miplib2010-1.0.3/BOX/miplib2010-1.0.4/results/solutions/decomp.dip.neos_911880.mps.sol
+
+@04 1392059709
+@05 100
+WARNING: solution cannot be checked because solution checker is missing
+-----------------------------
+Mon Feb 10 14:15:09 EST 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/noswot.mps ===========
+-----------------------------
+Mon Feb 10 14:15:09 EST 2014
+-----------------------------
+@03 1392059709
+
+========================================================
+========================================================
+Welcome to the DIP Decomposition Framework
+Copyright 2002-2013 Lehigh University and others
+All Rights Reserved
+Distributed under the Eclipse Public License 1.0
+Version: trunk
+Build Date: Feb 10 2014
+Revision Number: 1023
+========================================================
+========================================================
+Coin3006W No match for column   at line 629 <  UP bnd x1 1 >
+The file name is instances/decomplib/noswot.dec
+==  Welcome to the Abstract Library for Parallel Search (ALPS) 
+==  Copyright 2000-2013 Lehigh University and others 
+==  All Rights Reserved. 
+==  Distributed under the Eclipse Public License 1.0 
+==  Version: Trunk (unstable) 
+==  Build Date: Feb  9 2014
+==  Revision Number: 1872
+Alps0250I Starting search ...
+Alps0240I Proc: 1, Part: 0, Cand: 0, Best N: 1e+75, Best S: -15
+
+Alps0208I Search completed.
+Alps0261I Best solution found had quality -15 and was found at depth 0
+Alps0264I Number of nodes processed:                1
+Alps0267I Number of nodes branched:                 0
+Alps0268I Number of nodes pruned before processing: 0
+Alps0270I Number of nodes left:                     0
+Alps0272I Tree depth: 0
+Alps0274I Search CPU time: 0.09 seconds
+Alps0278I Search wall-clock time: 0.10 seconds
+
+================ DECOMP Statistics [BEGIN]: ===============                
+Total Decomp          =       0.10    100.00     1  0.10               
+Total Solve Relax     =       0.48    480.31    30  0.05               
+Total Solve Relax App =       0.00      0.04    30  0.00               
+Total Solution Update =       0.01      8.89     7  0.01               
+Total Generate Cuts   =       0.00      0.00     0  0.00               
+Total Generate Vars   =       0.09     86.72     5  0.02               
+Total Compress Cols   =       0.00      0.12     3  0.00
+================ DECOMP Statistics [END  ]: =============== 
+                                             
+============== DECOMP Solution Info [Begin]: ============= 
+Status        = Optimal
+BestLB        =  -15.00000
+BestUB        =  -15.00000
+OptiGap       =    0.00000
+Nodes         = 1
+ SetupCPU      = 0.06
+ SolveCPU      = 0.09
+ TotalCPU      = 0.15
+ SetupWallclock= 0.07
+ SolveWallclock= 0.10
+ TotalWallclock= 0.17
+ ============== DECOMP Solution Info [END  ]: ============= 
+Optimal Solution is 
+                      x49   1.00000000
+                      x51   1.00000000
+                      x52   1.00000000
+                      x53   1.00000000
+                      x54   1.00000000
+                      x55   1.00000000
+                      x56   1.00000000
+                      x57   1.00000000
+                      x58   1.00000000
+                      x59   1.00000000
+                      x60   1.00000000
+                      x61   1.00000000
+                      x62   1.00000000
+                      x63   1.00000000
+                      x64   1.00000000
+                      x65   1.00000000
+                      x66   1.00000000
+                      x67   1.00000000
+                      x68   1.00000000
+                      x69   1.00000000
+                      x70   1.00000000
+                      x71   1.00000000
+                      x72   1.00000000
+                      x77   1.00000000
+                      x78   1.00000000
+                      x81   1.00000000
+                      x82   1.00000000
+                      x91   1.00000000
+                      x92   1.00000000
+                      x97   1.00000000
+                      x98   1.00000000
+                     x101   13.52190000
+                     x102   3.64290010
+                     x103   3.64290010
+                     x104   10.61510010
+                     x105   3.64290010
+                     x106   9.87899990
+                     x109   6.97220000
+                     x111   5.65680000
+                     x114   2.75000010
+                     x116   2.75000010
+                     x127   7.92800050
+ Optimal Solution can be found in the file /home/jiw508/miplib2010-1.0.3/BOX/miplib2010-1.0.4/results/solutions/decomp.dip.noswot.mps.sol
+
+@04 1392059709
+@05 100
+WARNING: solution cannot be checked because solution checker is missing
+-----------------------------
+Mon Feb 10 14:15:09 EST 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/ns1702808.mps ===========
+-----------------------------
+Mon Feb 10 14:15:09 EST 2014
+-----------------------------
+@03 1392059709
+
+========================================================
+========================================================
+Welcome to the DIP Decomposition Framework
+Copyright 2002-2013 Lehigh University and others
+All Rights Reserved
+Distributed under the Eclipse Public License 1.0
+Version: trunk
+Build Date: Feb 10 2014
+Revision Number: 1023
+========================================================
+========================================================
+The file name is instances/decomplib/ns1702808.dec
+==  Welcome to the Abstract Library for Parallel Search (ALPS) 
+==  Copyright 2000-2013 Lehigh University and others 
+==  All Rights Reserved. 
+==  Distributed under the Eclipse Public License 1.0 
+==  Version: Trunk (unstable) 
+==  Build Date: Feb  9 2014
+==  Revision Number: 1872
+Alps0250I Starting search ...
+Alps0240I Proc: 0, Part: 1, Cand: 0, Best N: -20, Best S: 1e+75
+
+Alps0230I Reached time limit. 0 nodes processed, 1 nodes left
+Alps0262I No solution found
+Alps0265I Number of nodes fully processed:          0
+Alps0266I Number of nodes partially processed:      1
+Alps0267I Number of nodes branched:                 0
+Alps0268I Number of nodes pruned before processing: 0
+Alps0270I Number of nodes left:                     1
+Alps0272I Tree depth: 0
+Alps0274I Search CPU time: 110.61 seconds
+Alps0278I Search wall-clock time: 110.86 seconds
+
+================ DECOMP Statistics [BEGIN]: ===============                
+Total Decomp          =     110.89    100.00     1110.89               
+Total Solve Relax     =     398.02    358.92    24 61.33               
+Total Solve Relax App =       0.00      0.00    24  0.00               
+Total Solution Update =       0.00      0.00     4  0.00               
+Total Generate Cuts   =       0.00      0.00     0  0.00               
+Total Generate Vars   =     110.89    100.00     3 61.33               
+Total Compress Cols   =       0.00      0.00     0  0.00
+================ DECOMP Statistics [END  ]: =============== 
+                                             
+============== DECOMP Solution Info [Begin]: ============= 
+Status        = TimeLimit
+BestLB        =  -20.00000
+BestUB        =        INF
+OptiGap       =        INF
+Nodes         = 0
+ SetupCPU      = 0.07
+ SolveCPU      = 110.61
+ TotalCPU      = 110.68
+ SetupWallclock= 0.11
+ SolveWallclock= 110.90
+/home/jiw508/miplib2010-1.0.3/BOX/miplib2010-1.0.4/scripts/run_dip.sh: line 22: 20439 Segmentation fault      $BINNAME --DECOMP:LimitTime $TIMELIMIT --DECOMP:SolutionOutputFileName $SOLFILE --MILP:Instance $NAME --MILP:BlockFile ${NAME%.*}$block
+
+@04 1392059820
+@05 100
+WARNING: solution cannot be checked because solution checker is missing
+-----------------------------
+Mon Feb 10 14:17:00 EST 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/p12502.mps ===========
+-----------------------------
+Mon Feb 10 14:17:00 EST 2014
+-----------------------------
+@03 1392059820
+
+========================================================
+========================================================
+Welcome to the DIP Decomposition Framework
+Copyright 2002-2013 Lehigh University and others
+All Rights Reserved
+Distributed under the Eclipse Public License 1.0
+Version: trunk
+Build Date: Feb 10 2014
+Revision Number: 1023
+========================================================
+========================================================
+The file name is instances/decomplib/p12502.dec
+==  Welcome to the Abstract Library for Parallel Search (ALPS) 
+==  Copyright 2000-2013 Lehigh University and others 
+==  All Rights Reserved. 
+==  Distributed under the Eclipse Public License 1.0 
+==  Version: Trunk (unstable) 
+==  Build Date: Feb  9 2014
+==  Revision Number: 1872
+Alps0250I Starting search ...
+Alps0240I Proc: 0, Part: 1, Cand: 0, Best N: 408.21429, Best S: 1e+75
+Alps0240I Proc: 4, Part: 5, Cand: 0, Best N: 410.5, Best S: 412
+Alps0240I Proc: 10, Part: 5, Cand: 4, Best N: 411.5, Best S: 412
+Alps0240I Proc: 20, Part: 4, Cand: 1, Best N: 411.66667, Best S: 412
+
+Alps0208I Search completed.
+Alps0261I Best solution found had quality 412 and was found at depth 8
+Alps0265I Number of nodes fully processed:          21
+Alps0266I Number of nodes partially processed:      4
+Alps0267I Number of nodes branched:                 12
+Alps0268I Number of nodes pruned before processing: 0
+Alps0270I Number of nodes left:                     0
+Alps0272I Tree depth: 6
+Alps0274I Search CPU time: 54.86 seconds
+Alps0278I Search wall-clock time: 62.13 seconds
+
+================ DECOMP Statistics [BEGIN]: ===============                
+Total Decomp          =      62.09    100.00    25 33.72               
+Total Solve Relax     =    1402.38   2258.57 15050  0.60               
+Total Solve Relax App =       0.06      0.10 15050  0.00               
+Total Solution Update =       2.01      3.23   371  0.45               
+Total Generate Cuts   =       0.00      0.00    21  0.00               
+Total Generate Vars   =      55.06     88.67   300  0.60               
+Total Compress Cols   =       0.02      0.03    50  0.00
+================ DECOMP Statistics [END  ]: =============== 
+                                             
+============== DECOMP Solution Info [Begin]: ============= 
+Status        = Optimal
+BestLB        =  412.00000
+BestUB        =  412.00000
+OptiGap       =    0.00000
+Nodes         = 21
+ SetupCPU      = 0.20
+ SolveCPU      = 54.86
+ TotalCPU      = 55.06
+ SetupWallclock= 0.31
+ SolveWallclock= 62.16
+ TotalWallclock= 62.47
+ ============== DECOMP Solution Info [END  ]: ============= 
+Optimal Solution is 
+                   x#1#41   1.00000000
+                    x#3#5   1.00000000
+                    x#4#2   1.00000000
+                   x#6#16   1.00000000
+                   x#7#48   1.00000000
+                   x#8#47   1.00000000
+                   x#9#48   1.00000000
+                  x#11#31   1.00000000
+                  x#12#31   1.00000000
+                  x#14#13   1.00000000
+                  x#17#15   1.00000000
+                  x#18#10   1.00000000
+                  x#19#44   1.00000000
+                  x#20#47   1.00000000
+                  x#21#47   1.00000000
+                  x#22#31   1.00000000
+                  x#24#16   1.00000000
+                  x#25#48   1.00000000
+                  x#26#48   1.00000000
+                  x#27#10   1.00000000
+                  x#28#47   1.00000000
+                  x#29#41   1.00000000
+                  x#30#16   1.00000000
+                   x#32#2   1.00000000
+                  x#33#44   1.00000000
+                  x#34#44   1.00000000
+                  x#35#23   1.00000000
+                  x#36#44   1.00000000
+                  x#37#16   1.00000000
+                  x#38#23   1.00000000
+                  x#39#10   1.00000000
+                  x#40#16   1.00000000
+                  x#42#16   1.00000000
+                  x#43#15   1.00000000
+                  x#45#13   1.00000000
+                  x#46#44   1.00000000
+                  x#49#41   1.00000000
+                  x#50#47   1.00000000
+                    x#2#2   1.00000000
+                    x#5#5   1.00000000
+                  x#10#10   1.00000000
+                  x#13#13   1.00000000
+                  x#15#15   1.00000000
+                  x#16#16   1.00000000
+                  x#23#23   1.00000000
+                  x#31#31   1.00000000
+                  x#41#41   1.00000000
+                  x#44#44   1.00000000
+                  x#47#47   1.00000000
+                  x#48#48   1.00000000
+                      y#2   1.00000000
+                      y#5   1.00000000
+                     y#10   1.00000000
+                     y#13   1.00000000
+                     y#15   1.00000000
+                     y#16   1.00000000
+                     y#23   1.00000000
+                     y#31   1.00000000
+                     y#41   1.00000000
+                     y#44   1.00000000
+                     y#47   1.00000000
+                     y#48   1.00000000
+ Optimal Solution can be found in the file /home/jiw508/miplib2010-1.0.3/BOX/miplib2010-1.0.4/results/solutions/decomp.dip.p12502.mps.sol
+
+@04 1392059882
+@05 100
+WARNING: solution cannot be checked because solution checker is missing
+-----------------------------
+Mon Feb 10 14:18:02 EST 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/p16502.mps ===========
+-----------------------------
+Mon Feb 10 14:18:02 EST 2014
+-----------------------------
+@03 1392059882
+
+========================================================
+========================================================
+Welcome to the DIP Decomposition Framework
+Copyright 2002-2013 Lehigh University and others
+All Rights Reserved
+Distributed under the Eclipse Public License 1.0
+Version: trunk
+Build Date: Feb 10 2014
+Revision Number: 1023
+========================================================
+========================================================
+The file name is instances/decomplib/p16502.dec
+==  Welcome to the Abstract Library for Parallel Search (ALPS) 
+==  Copyright 2000-2013 Lehigh University and others 
+==  All Rights Reserved. 
+==  Distributed under the Eclipse Public License 1.0 
+==  Version: Trunk (unstable) 
+==  Build Date: Feb  9 2014
+==  Revision Number: 1872
+Alps0250I Starting search ...
+Alps0240I Proc: 0, Part: 1, Cand: 0, Best N: 328, Best S: 1e+75
+Alps0240I Proc: 5, Part: 6, Cand: 0, Best N: 330, Best S: 352
+Alps0240I Proc: 10, Part: 9, Cand: 2, Best N: 331, Best S: 352
+Alps0240I Proc: 10, Part: 10, Cand: 1, Best N: 331, Best S: 352
+Alps0240I Proc: 10, Part: 11, Cand: 0, Best N: 331.08333, Best S: 352
+Alps0240I Proc: 20, Part: 18, Cand: 3, Best N: 333, Best S: 352
+Alps0240I Proc: 20, Part: 19, Cand: 2, Best N: 333, Best S: 352
+Alps0240I Proc: 20, Part: 20, Cand: 1, Best N: 333, Best S: 352
+Alps0240I Proc: 20, Part: 21, Cand: 0, Best N: 333.5, Best S: 352
+Alps0240I Proc: 22, Part: 22, Cand: 1, Best N: 333.5, Best S: 348
+Alps0240I Proc: 24, Part: 25, Cand: 0, Best N: 334, Best S: 346
+Alps0240I Proc: 26, Part: 26, Cand: 1, Best N: 334, Best S: 336
+Alps0240I Proc: 30, Part: 24, Cand: 3, Best N: 334, Best S: 336
+Alps0240I Proc: 40, Part: 27, Cand: 6, Best N: 334.5, Best S: 336
+Alps0240I Proc: 40, Part: 28, Cand: 5, Best N: 334.5, Best S: 336
+Alps0240I Proc: 40, Part: 29, Cand: 4, Best N: 334.5, Best S: 336
+Alps0240I Proc: 40, Part: 30, Cand: 3, Best N: 334.5, Best S: 336
+Alps0240I Proc: 50, Part: 30, Cand: 1, Best N: 334.625, Best S: 336
+Alps0240I Proc: 50, Part: 31, Cand: 0, Best N: 335, Best S: 336
+Alps0240I Proc: 60, Part: 29, Cand: 6, Best N: 335, Best S: 336
+Alps0240I Proc: 70, Part: 33, Cand: 2, Best N: 335, Best S: 336
+Alps0240I Proc: 70, Part: 34, Cand: 1, Best N: 335, Best S: 336
+Alps0240I Proc: 80, Part: 33, Cand: 0, Best N: 335.25, Best S: 336
+Alps0240I Proc: 90, Part: 28, Cand: 9, Best N: 335.5, Best S: 336
+Alps0240I Proc: 100, Part: 28, Cand: 5, Best N: 335.5, Best S: 336
+Alps0240I Proc: 100, Part: 29, Cand: 4, Best N: 335.5, Best S: 336
+Alps0240I Proc: 110, Part: 26, Cand: 5, Best N: 335.5, Best S: 336
+Alps0240I Proc: 120, Part: 25, Cand: 2, Best N: 335.5, Best S: 336
+
+Alps0230I Reached time limit. 129 nodes processed, 24 nodes left
+Alps0261I Best solution found had quality 336 and was found at depth 51
+Alps0265I Number of nodes fully processed:          129
+Alps0266I Number of nodes partially processed:      24
+Alps0267I Number of nodes branched:                 76
+Alps0268I Number of nodes pruned before processing: 0
+Alps0270I Number of nodes left:                     24
+Alps0272I Tree depth: 13
+Alps0274I Search CPU time: 99.77 seconds
+Alps0278I Search wall-clock time: 110.30 seconds
+
+================ DECOMP Statistics [BEGIN]: ===============                
+Total Decomp          =     108.83    100.00   569 28.16               
+Total Solve Relax     =    2208.30   2029.06 29150  0.52               
+Total Solve Relax App =       0.12      0.11 29150  0.00               
+Total Solution Update =       2.64      2.43  1166  0.47               
+Total Generate Cuts   =       0.00      0.00   164  0.00               
+Total Generate Vars   =      86.13     79.14   582  0.52               
+Total Compress Cols   =       0.04      0.04   114  0.00
+================ DECOMP Statistics [END  ]: =============== 
+                                             
+============== DECOMP Solution Info [Begin]: ============= 
+Status        = TimeLimit
+BestLB        =  335.50000
+BestUB        =  336.00000
+OptiGap       =    0.00149
+Nodes         = 129
+ SetupCPU      = 0.16
+ SolveCPU      = 99.77
+ TotalCPU      = 99.93
+ SetupWallclock= 0.30
+ SolveWallclock= 110.35
+ TotalWallclock= 110.65
+ ============== DECOMP Solution Info [END  ]: ============= 
+
+@04 1392059993
+@05 100
+WARNING: solution cannot be checked because solution checker is missing
+-----------------------------
+Mon Feb 10 14:19:53 EST 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/p20501.mps ===========
+-----------------------------
+Mon Feb 10 14:19:53 EST 2014
+-----------------------------
+@03 1392059993
+
+========================================================
+========================================================
+Welcome to the DIP Decomposition Framework
+Copyright 2002-2013 Lehigh University and others
+All Rights Reserved
+Distributed under the Eclipse Public License 1.0
+Version: trunk
+Build Date: Feb 10 2014
+Revision Number: 1023
+========================================================
+========================================================
+The file name is instances/decomplib/p20501.dec
+==  Welcome to the Abstract Library for Parallel Search (ALPS) 
+==  Copyright 2000-2013 Lehigh University and others 
+==  All Rights Reserved. 
+==  Distributed under the Eclipse Public License 1.0 
+==  Version: Trunk (unstable) 
+==  Build Date: Feb  9 2014
+==  Revision Number: 1872
+Alps0250I Starting search ...
+Alps0240I Proc: 0, Part: 1, Cand: 0, Best N: 258.7, Best S: 1e+75
+Alps0240I Proc: 7, Part: 6, Cand: 0, Best N: 262.83333, Best S: 270
+Alps0240I Proc: 10, Part: 5, Cand: 2, Best N: 263, Best S: 270
+Alps0240I Proc: 10, Part: 6, Cand: 1, Best N: 263, Best S: 266
+Alps0240I Proc: 20, Part: 5, Cand: 4, Best N: 263.66667, Best S: 266
+Alps0240I Proc: 20, Part: 6, Cand: 3, Best N: 263.66667, Best S: 266
+Alps0240I Proc: 30, Part: 7, Cand: 0, Best N: 265.33333, Best S: 266
+Alps0240I Proc: 40, Part: 6, Cand: 1, Best N: 265.5, Best S: 266
+Alps0240I Proc: 50, Part: 2, Cand: 3, Best N: 265.66667, Best S: 266
+Alps0240I Proc: 60, Part: 0, Cand: 1, Best N: 265.7, Best S: 266
+
+Alps0208I Search completed.
+Alps0261I Best solution found had quality 266 and was found at depth 15
+Alps0264I Number of nodes processed:                61
+Alps0267I Number of nodes branched:                 30
+Alps0268I Number of nodes pruned before processing: 0
+Alps0270I Number of nodes left:                     0
+Alps0272I Tree depth: 9
+Alps0274I Search CPU time: 46.63 seconds
+Alps0278I Search wall-clock time: 50.96 seconds
+
+================ DECOMP Statistics [BEGIN]: ===============                
+Total Decomp          =      50.91    100.00    61 22.13               
+Total Solve Relax     =    1174.23   2306.71 17450  0.46               
+Total Solve Relax App =       0.07      0.13 17450  0.00               
+Total Solution Update =       1.58      3.11   469  0.35               
+Total Generate Cuts   =       0.00      0.00    36  0.00               
+Total Generate Vars   =      44.84     88.09   348  0.46               
+Total Compress Cols   =       0.01      0.03    52  0.00
+================ DECOMP Statistics [END  ]: =============== 
+                                             
+============== DECOMP Solution Info [Begin]: ============= 
+Status        = Optimal
+BestLB        =  266.00000
+BestUB        =  266.00000
+OptiGap       =    0.00000
+Nodes         = 61
+ SetupCPU      = 0.16
+ SolveCPU      = 46.63
+ TotalCPU      = 46.79
+ SetupWallclock= 0.30
+ SolveWallclock= 50.99
+ TotalWallclock= 51.29
+ ============== DECOMP Solution Info [END  ]: ============= 
+Optimal Solution is 
+                   x#1#50   1.00000000
+                    x#2#6   1.00000000
+                   x#3#11   1.00000000
+                   x#5#22   1.00000000
+                   x#7#45   1.00000000
+                    x#8#9   1.00000000
+                  x#10#17   1.00000000
+                  x#12#43   1.00000000
+                  x#13#11   1.00000000
+                  x#14#41   1.00000000
+                  x#16#33   1.00000000
+                  x#18#21   1.00000000
+                  x#19#31   1.00000000
+                   x#20#9   1.00000000
+                  x#23#11   1.00000000
+                  x#24#28   1.00000000
+                   x#25#6   1.00000000
+                   x#27#4   1.00000000
+                  x#29#33   1.00000000
+                  x#32#41   1.00000000
+                  x#34#26   1.00000000
+                  x#36#50   1.00000000
+                   x#37#4   1.00000000
+                  x#38#30   1.00000000
+                  x#39#15   1.00000000
+                  x#44#21   1.00000000
+                  x#46#42   1.00000000
+                  x#47#31   1.00000000
+                  x#48#22   1.00000000
+                  x#49#17   1.00000000
+                    x#4#4   1.00000000
+                    x#6#6   1.00000000
+                    x#9#9   1.00000000
+                  x#11#11   1.00000000
+                  x#15#15   1.00000000
+                  x#17#17   1.00000000
+                  x#21#21   1.00000000
+                  x#22#22   1.00000000
+                  x#26#26   1.00000000
+                  x#28#28   1.00000000
+                  x#30#30   1.00000000
+                  x#31#31   1.00000000
+                  x#33#33   1.00000000
+                  x#35#35   1.00000000
+                  x#40#40   1.00000000
+                  x#41#41   1.00000000
+                  x#42#42   1.00000000
+                  x#43#43   1.00000000
+                  x#45#45   1.00000000
+                  x#50#50   1.00000000
+                      y#4   1.00000000
+                      y#6   1.00000000
+                      y#9   1.00000000
+                     y#11   1.00000000
+                     y#15   1.00000000
+                     y#17   1.00000000
+                     y#21   1.00000000
+                     y#22   1.00000000
+                     y#26   1.00000000
+                     y#28   1.00000000
+                     y#30   1.00000000
+                     y#31   1.00000000
+                     y#33   1.00000000
+                     y#35   1.00000000
+                     y#40   1.00000000
+                     y#41   1.00000000
+                     y#42   1.00000000
+                     y#43   1.00000000
+                     y#45   1.00000000
+                     y#50   1.00000000
+ Optimal Solution can be found in the file /home/jiw508/miplib2010-1.0.3/BOX/miplib2010-1.0.4/results/solutions/decomp.dip.p20501.mps.sol
+
+@04 1392060045
+@05 100
+WARNING: solution cannot be checked because solution checker is missing
+-----------------------------
+Mon Feb 10 14:20:45 EST 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/rap_i22.mps ===========
+-----------------------------
+Mon Feb 10 14:20:45 EST 2014
+-----------------------------
+@03 1392060045
+
+========================================================
+========================================================
+Welcome to the DIP Decomposition Framework
+Copyright 2002-2013 Lehigh University and others
+All Rights Reserved
+Distributed under the Eclipse Public License 1.0
+Version: trunk
+Build Date: Feb 10 2014
+Revision Number: 1023
+========================================================
+========================================================
+No MAX/MIN found after OBJSENSE
+Coin3005W No match for row TotalProfit at line 3608 <    x[1,1] TotalProfit 10 CapacityCon[1,1] 23 >
+Coin3005W No match for row TotalProfit at line 3609 <    x[2,1] TotalProfit 74 CapacityCon[1,1] 19 >
+Coin3005W No match for row TotalProfit at line 3610 <    x[3,1] TotalProfit 53 CapacityCon[1,1] 11 >
+Coin3005W No match for row TotalProfit at line 3612 <    x[4,1] TotalProfit 63 CapacityCon[1,1] 91 >
+Coin3005W No match for row TotalProfit at line 3614 <    x[5,1] TotalProfit 92 CapacityCon[1,1] 41 >
+Coin3005W No match for row TotalProfit at line 3616 <    x[6,1] TotalProfit 79 CapacityCon[1,1] 25 >
+Coin3005W No match for row TotalProfit at line 3618 <    x[7,1] TotalProfit 65 CapacityCon[1,1] 48 >
+Coin3005W No match for row TotalProfit at line 3621 <    x[8,1] TotalProfit 30 CapacityCon[1,1] 22 >
+Coin3005W No match for row TotalProfit at line 3624 <    x[9,1] TotalProfit 92 CapacityCon[1,1] 14 >
+Coin3005W No match for row TotalProfit at line 3628 <    x[10,1] TotalProfit 43 CapacityCon[1,1] 58 >
+Coin3005W No match for row TotalProfit at line 3632 <    x[11,1] TotalProfit 71 CapacityCon[1,1] 82 >
+Coin3005W No match for row TotalProfit at line 3636 <    x[12,1] TotalProfit 18 CapacityCon[1,1] 23 >
+Coin3005W No match for row TotalProfit at line 3641 <    x[13,1] TotalProfit 91 CapacityCon[1,1] 81 >
+Coin3005W No match for row TotalProfit at line 3646 <    x[14,1] TotalProfit 31 CapacityCon[1,1] 18 >
+Coin3005W No match for row TotalProfit at line 3652 <    x[15,1] TotalProfit 40 CapacityCon[1,1] 35 >
+Coin3005W No match for row TotalProfit at line 3658 <    x[16,1] TotalProfit 49 CapacityCon[1,1] 66 >
+Coin3005W No match for row TotalProfit at line 3667 <    x[17,1] TotalProfit 42 CapacityCon[1,1] 70 >
+Coin3005W No match for row TotalProfit at line 3679 <    x[18,1] TotalProfit 28 CapacityCon[1,1] 62 >
+Coin3005W No match for row TotalProfit at line 3691 <    x[19,1] TotalProfit 55 CapacityCon[1,1] 81 >
+Coin3005W No match for row TotalProfit at line 3711 <    x[20,1] TotalProfit 12 CapacityCon[1,1] 82 >
+Coin3005W No match for row TotalProfit at line 3736 <    x[21,1] TotalProfit 37 CapacityCon[1,2] 34 >
+Coin3005W No match for row TotalProfit at line 3744 <    x[22,1] TotalProfit 64 CapacityCon[1,2] 45 >
+Coin3005W No match for row TotalProfit at line 3754 <    x[23,1] TotalProfit 31 CapacityCon[1,3] 67 >
+Coin3005W No match for row TotalProfit at line 3756 <    x[24,1] TotalProfit 64 CapacityCon[1,3] 74 >
+Coin3005W No match for row TotalProfit at line 3764 <    x[25,1] TotalProfit 41 CapacityCon[1,4] 86 >
+Coin3005W No match for row TotalProfit at line 3768 <    x[26,1] TotalProfit 80 CapacityCon[1,4] 20 >
+Coin3005W No match for row TotalProfit at line 3774 <    x[27,1] TotalProfit 21 CapacityCon[1,5] 56 >
+Coin3005W No match for row TotalProfit at line 3777 <    x[28,1] TotalProfit 97 CapacityCon[1,5] 94 >
+Coin3005W No match for row TotalProfit at line 3799 <    x[29,1] TotalProfit 85 CapacityCon[1,6] 91 >
+Coin3005W No match for row TotalProfit at line 3800 <    x[30,1] TotalProfit 73 CapacityCon[1,7] 10 >
+Coin3005W No match for row TotalProfit at line 3805 <    x[31,1] TotalProfit 34 CapacityCon[1,7] 86 >
+Coin3005W No match for row TotalProfit at line 3821 <    x[32,1] TotalProfit 34 CapacityCon[1,8] 91 >
+Coin3005W No match for row TotalProfit at line 3823 <    x[33,1] TotalProfit 31 CapacityCon[1,8] 14 >
+Coin3005W No match for row TotalProfit at line 3827 <    x[34,1] TotalProfit 93 CapacityCon[1,9] 11 >
+Coin3005W No match for row TotalProfit at line 3830 <    x[35,1] TotalProfit 68 CapacityCon[1,9] 88 >
+Coin3005W No match for row TotalProfit at line 3836 <    x[36,1] TotalProfit 22 CapacityCon[1,10] 20 >
+Coin3005W No match for row TotalProfit at line 3842 <    x[37,1] TotalProfit 48 CapacityCon[1,10] 70 >
+Coin3005W No match for row TotalProfit at line 3849 <    x[38,1] TotalProfit 38 CapacityCon[1,11] 81 >
+Coin3005W No match for row TotalProfit at line 3850 <    x[39,1] TotalProfit 90 CapacityCon[1,11] 71 >
+Coin3005W No match for row TotalProfit at line 3858 <    x[40,1] TotalProfit 75 CapacityCon[1,12] 56 >
+Coin3005W No match for row TotalProfit at line 3859 <    x[41,1] TotalProfit 66 LinkDupVarsCon[41,2] -1 >
+Coin3005W No match for row TotalProfit at line 3889 <    x[42,1] TotalProfit 50 CapacityCon[1,13] 19 >
+Coin3005W No match for row TotalProfit at line 3890 <    x[43,1] TotalProfit 22 CapacityCon[1,13] 21 >
+Coin3005W No match for row TotalProfit at line 3892 <    x[44,1] TotalProfit 48 CapacityCon[1,14] 12 >
+Coin3005W No match for row TotalProfit at line 3896 <    x[45,1] TotalProfit 49 CapacityCon[1,14] 34 >
+Coin3005W No match for row TotalProfit at line 3904 <    x[46,1] TotalProfit 31 CapacityCon[1,15] 34 >
+Coin3005W No match for row TotalProfit at line 3905 <    x[47,1] TotalProfit 17 CapacityCon[1,15] 51 >
+Coin3005W No match for row TotalProfit at line 3914 <    x[48,1] TotalProfit 41 CapacityCon[1,16] 76 >
+Coin3005W No match for row TotalProfit at line 3925 <    x[49,1] TotalProfit 98 CapacityCon[1,16] 70 >
+Coin3005W No match for row TotalProfit at line 3938 <    x[50,1] TotalProfit 60 CapacityCon[1,17] 78 >
+Coin3005W No match for row TotalProfit at line 3958 <    x[51,1] TotalProfit 78 CapacityCon[1,18] 11 >
+Coin3005W No match for row TotalProfit at line 3960 <    x[52,1] TotalProfit 98 CapacityCon[1,18] 49 >
+Coin3005W No match for row TotalProfit at line 3963 <    x[53,1] TotalProfit 13 CapacityCon[1,19] 85 >
+Coin3005W No match for row TotalProfit at line 3967 <    x[54,1] TotalProfit 60 CapacityCon[1,20] 66 >
+Coin3005W No match for row TotalProfit at line 3969 <    x[55,1] TotalProfit 92 CapacityCon[1,20] 48 >
+Coin3005W No match for row TotalProfit at line 3976 <    x[56,1] TotalProfit 57 CapacityCon[1,21] 44 >
+Coin3005W No match for row TotalProfit at line 3978 <    x[57,1] TotalProfit 48 CapacityCon[1,21] 33 >
+Coin3005W No match for row TotalProfit at line 3988 <    x[58,1] TotalProfit 64 CapacityCon[1,22] 83 >
+Coin3005W No match for row TotalProfit at line 3991 <    x[59,1] TotalProfit 72 CapacityCon[1,22] 79 >
+Coin3005W No match for row TotalProfit at line 4000 <    x[60,1] TotalProfit 87 CapacityCon[1,23] 66 >
+Coin3005W No match for row TotalProfit at line 4002 <    x[61,1] TotalProfit 60 CapacityCon[1,23] 30 >
+Coin3005W No match for row TotalProfit at line 4006 <    x[62,1] TotalProfit 19 CapacityCon[1,24] 100 >
+Coin3005W No match for row TotalProfit at line 4008 <    x[63,1] TotalProfit 61 CapacityCon[1,24] 39 >
+Coin3005W No match for row TotalProfit at line 4014 <    x[64,1] TotalProfit 20 CapacityCon[1,25] 97 >
+Coin3005W No match for row TotalProfit at line 4017 <    x[65,1] TotalProfit 45 CapacityCon[1,25] 53 >
+Coin3005W No match for row TotalProfit at line 4029 <    x[66,1] TotalProfit 72 CapacityCon[1,26] 80 >
+Coin3005W No match for row TotalProfit at line 4030 <    x[67,1] TotalProfit 50 CapacityCon[1,26] 12 >
+Coin3005W No match for row TotalProfit at line 4035 <    x[68,1] TotalProfit 84 CapacityCon[1,27] 50 >
+Coin3005W No match for row TotalProfit at line 4036 <    x[69,1] TotalProfit 86 CapacityCon[1,27] 81 >
+Coin3005W No match for row TotalProfit at line 4038 <    x[70,1] TotalProfit 77 CapacityCon[1,28] 65 >
+Coin3005W No match for row TotalProfit at line 4040 <    x[71,1] TotalProfit 57 CapacityCon[1,28] 15 >
+Coin3005W No match for row TotalProfit at line 4043 <    x[72,1] TotalProfit 79 CapacityCon[1,29] 15 >
+Coin3005W No match for row TotalProfit at line 4055 <    x[73,1] TotalProfit 54 CapacityCon[1,30] 45 >
+Coin3005W No match for row TotalProfit at line 4056 <    x[74,1] TotalProfit 71 CapacityCon[1,30] 52 >
+Coin3005W No match for row TotalProfit at line 4063 <    x[75,1] TotalProfit 64 CapacityCon[1,31] 94 >
+Coin3005W No match for row TotalProfit at line 4065 <    x[76,1] TotalProfit 69 LinkDupVarsCon[76,2] -1 >
+Coin3005W No match for row TotalProfit at line 4085 <    x[77,1] TotalProfit 31 CapacityCon[1,32] 15 >
+Coin3005W No match for row TotalProfit at line 4086 <    x[78,1] TotalProfit 55 CapacityCon[1,32] 98 >
+Coin3005W No match for row TotalProfit at line 4097 <    x[79,1] TotalProfit 86 CapacityCon[1,33] 96 >
+Coin3005W No match for row TotalProfit at line 4103 <    x[80,1] TotalProfit 11 CapacityCon[1,33] 92 >
+Coin3005W No match for row TotalProfit at line 4109 <    x[81,1] TotalProfit 55 CapacityCon[1,34] 91 >
+Coin3005W No match for row TotalProfit at line 4110 <    x[82,1] TotalProfit 24 CapacityCon[1,34] 90 >
+Coin3005W No match for row TotalProfit at line 4112 <    x[83,1] TotalProfit 81 CapacityCon[1,35] 71 >
+Coin3005W No match for row TotalProfit at line 4113 <    x[84,1] TotalProfit 28 CapacityCon[1,35] 46 >
+Coin3005W No match for row TotalProfit at line 4119 <    x[85,1] TotalProfit 50 CapacityCon[1,36] 43 >
+Coin3005W No match for row TotalProfit at line 4129 <    x[86,1] TotalProfit 24 CapacityCon[1,37] 50 >
+Coin3005W No match for row TotalProfit at line 4131 <    x[87,1] TotalProfit 16 CapacityCon[1,37] 48 >
+Coin3005W No match for row TotalProfit at line 4136 <    x[88,1] TotalProfit 49 CapacityCon[1,38] 38 >
+Coin3005W No match for row TotalProfit at line 4138 <    x[89,1] TotalProfit 55 LinkDupVarsCon[89,2] -1 >
+Coin3005W No match for row TotalProfit at line 4157 <    x[90,1] TotalProfit 14 CapacityCon[1,39] 37 >
+Coin3005W No match for row TotalProfit at line 4158 <    x[91,1] TotalProfit 71 CapacityCon[1,39] 97 >
+Coin3005W No match for row TotalProfit at line 4168 <    x[92,1] TotalProfit 31 CapacityCon[1,40] 36 >
+Coin3005W No match for row TotalProfit at line 4170 <    x[93,1] TotalProfit 61 CapacityCon[1,40] 100 >
+Coin3005W No match for row TotalProfit at line 4183 <    x[94,1] TotalProfit 34 CapacityCon[1,41] 27 >
+Coin3005W No match for row TotalProfit at line 4186 <    x[95,1] TotalProfit 68 CapacityCon[1,41] 91 >
+Coin3005W No match for row TotalProfit at line 4191 <    x[96,1] TotalProfit 12 CapacityCon[1,42] 48 >
+Coin3005W No match for row TotalProfit at line 4192 <    x[97,1] TotalProfit 42 CapacityCon[1,42] 11 >
+Coin3005W No match for row TotalProfit at line 4197 <    x[98,1] TotalProfit 25 CapacityCon[1,43] 36 >
+Coin3005W No match for row TotalProfit at line 4200 <    x[99,1] TotalProfit 84 CapacityCon[1,43] 89 >
+The file name is instances/decomplib/rap_i22.dec
+==  Welcome to the Abstract Library for Parallel Search (ALPS) 
+==  Copyright 2000-2013 Lehigh University and others 
+==  All Rights Reserved. 
+==  Distributed under the Eclipse Public License 1.0 
+==  Version: Trunk (unstable) 
+==  Build Date: Feb  9 2014
+==  Revision Number: 1872
+Alps0250I Starting search ...
+Alps0240I Proc: 1, Part: 0, Cand: 0, Best N: 1e+75, Best S: 0
+
+Alps0208I Search completed.
+Alps0261I Best solution found had quality 0 and was found at depth 0
+Alps0264I Number of nodes processed:                1
+Alps0267I Number of nodes branched:                 0
+Alps0268I Number of nodes pruned before processing: 0
+Alps0270I Number of nodes left:                     0
+Alps0272I Tree depth: 0
+Alps0274I Search CPU time: 0.11 seconds
+Alps0278I Search wall-clock time: 0.12 seconds
+
+================ DECOMP Statistics [BEGIN]: ===============                
+Total Decomp          =       0.12    100.00     1  0.12               
+Total Solve Relax     =      11.12   9382.43    88  0.25               
+Total Solve Relax App =       0.00      0.17    88  0.00               
+Total Solution Update =       0.03     24.88     2  0.03               
+Total Generate Cuts   =       0.00      0.00     0  0.00               
+Total Generate Vars   =       0.02     20.41     1  0.02               
+Total Compress Cols   =       0.00      0.00     0  0.00
+================ DECOMP Statistics [END  ]: =============== 
+                                             
+============== DECOMP Solution Info [Begin]: ============= 
+Status        = Optimal
+BestLB        =    0.00000
+BestUB        =    0.00000
+OptiGap       =    0.00000
+Nodes         = 1
+ SetupCPU      = 0.39
+ SolveCPU      = 0.11
+ TotalCPU      = 0.50
+ SetupWallclock= 0.51
+ SolveWallclock= 0.12
+ TotalWallclock= 0.63
+ ============== DECOMP Solution Info [END  ]: ============= 
+Optimal Solution is 
+ Optimal Solution can be found in the file /home/jiw508/miplib2010-1.0.3/BOX/miplib2010-1.0.4/results/solutions/decomp.dip.rap_i22.mps.sol
+
+@04 1392060045
+@05 100
+WARNING: solution cannot be checked because solution checker is missing
+-----------------------------
+Mon Feb 10 14:20:45 EST 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/rap_i71.mps ===========
+-----------------------------
+Mon Feb 10 14:20:45 EST 2014
+-----------------------------
+@03 1392060045
+
+========================================================
+========================================================
+Welcome to the DIP Decomposition Framework
+Copyright 2002-2013 Lehigh University and others
+All Rights Reserved
+Distributed under the Eclipse Public License 1.0
+Version: trunk
+Build Date: Feb 10 2014
+Revision Number: 1023
+========================================================
+========================================================
+No MAX/MIN found after OBJSENSE
+Coin3005W No match for row TotalProfit at line 1373 <    x[1,1] TotalProfit 99 CapacityCon[1,1] 92 >
+Coin3005W No match for row TotalProfit at line 1378 <    x[2,1] TotalProfit 56 CapacityCon[1,1] 30 >
+Coin3005W No match for row TotalProfit at line 1380 <    x[3,1] TotalProfit 39 CapacityCon[1,1] 73 >
+Coin3005W No match for row TotalProfit at line 1390 <    x[4,1] TotalProfit 86 CapacityCon[1,1] 76 >
+Coin3005W No match for row TotalProfit at line 1395 <    x[5,1] TotalProfit 59 CapacityCon[1,1] 97 >
+Coin3005W No match for row TotalProfit at line 1399 <    x[6,1] TotalProfit 85 CapacityCon[1,1] 24 >
+Coin3005W No match for row TotalProfit at line 1404 <    x[7,1] TotalProfit 71 CapacityCon[1,1] 52 >
+Coin3005W No match for row TotalProfit at line 1406 <    x[8,1] TotalProfit 19 CapacityCon[1,1] 96 >
+Coin3005W No match for row TotalProfit at line 1411 <    x[9,1] TotalProfit 75 CapacityCon[1,1] 85 >
+Coin3005W No match for row TotalProfit at line 1422 <    x[10,1] TotalProfit 62 CapacityCon[1,1] 28 >
+Coin3005W No match for row TotalProfit at line 1424 <    x[11,1] TotalProfit 16 CapacityCon[1,1] 38 >
+Coin3005W No match for row TotalProfit at line 1429 <    x[12,1] TotalProfit 61 CapacityCon[1,1] 100 >
+Coin3005W No match for row TotalProfit at line 1430 <    x[13,1] TotalProfit 80 CapacityCon[1,1] 17 >
+Coin3005W No match for row TotalProfit at line 1432 <    x[14,1] TotalProfit 20 CapacityCon[1,1] 39 >
+Coin3005W No match for row TotalProfit at line 1435 <    x[15,1] TotalProfit 99 CapacityCon[1,1] 83 >
+Coin3005W No match for row TotalProfit at line 1444 <    x[16,1] TotalProfit 83 CapacityCon[1,1] 81 >
+Coin3005W No match for row TotalProfit at line 1449 <    x[17,1] TotalProfit 81 CapacityCon[1,1] 58 >
+Coin3005W No match for row TotalProfit at line 1451 <    x[18,1] TotalProfit 22 CapacityCon[1,1] 32 >
+Coin3005W No match for row TotalProfit at line 1453 <    x[19,1] TotalProfit 52 CapacityCon[1,1] 15 >
+Coin3005W No match for row TotalProfit at line 1459 <    x[20,1] TotalProfit 49 CapacityCon[1,1] 93 >
+Coin3005W No match for row TotalProfit at line 1462 <    x[21,1] TotalProfit 26 CapacityCon[1,1] 90 >
+Coin3005W No match for row TotalProfit at line 1472 <    x[22,1] TotalProfit 85 CapacityCon[1,1] 55 >
+Coin3005W No match for row TotalProfit at line 1476 <    x[23,1] TotalProfit 40 CapacityCon[1,1] 93 >
+Coin3005W No match for row TotalProfit at line 1480 <    x[24,1] TotalProfit 49 CapacityCon[1,1] 33 >
+Coin3005W No match for row TotalProfit at line 1483 <    x[25,1] TotalProfit 95 CapacityCon[1,1] 73 >
+Coin3005W No match for row TotalProfit at line 1487 <    x[26,1] TotalProfit 49 CapacityCon[1,1] 79 >
+Coin3005W No match for row TotalProfit at line 1488 <    x[27,1] TotalProfit 21 CapacityCon[1,1] 52 >
+Coin3005W No match for row TotalProfit at line 1494 <    x[28,1] TotalProfit 19 CapacityCon[1,1] 64 >
+Coin3005W No match for row TotalProfit at line 1499 <    x[29,1] TotalProfit 51 CapacityCon[1,1] 50 >
+Coin3005W No match for row TotalProfit at line 1502 <    x[30,1] TotalProfit 84 CapacityCon[1,1] 87 >
+Coin3005W No match for row TotalProfit at line 1504 <    x[31,1] TotalProfit 83 CapacityCon[1,1] 50 >
+Coin3005W No match for row TotalProfit at line 1506 <    x[32,1] TotalProfit 19 CapacityCon[1,1] 59 >
+Coin3005W No match for row TotalProfit at line 1508 <    x[33,1] TotalProfit 10 CapacityCon[1,1] 38 >
+Coin3005W No match for row TotalProfit at line 1510 <    x[34,1] TotalProfit 88 CapacityCon[1,2] 84 >
+Coin3005W No match for row TotalProfit at line 1522 <    x[35,1] TotalProfit 48 CapacityCon[1,2] 69 >
+Coin3005W No match for row TotalProfit at line 1528 <    x[36,1] TotalProfit 79 CapacityCon[1,2] 90 >
+Coin3005W No match for row TotalProfit at line 1529 <    x[37,1] TotalProfit 40 CapacityCon[1,3] 87 >
+Coin3005W No match for row TotalProfit at line 1540 <    x[38,1] TotalProfit 52 CapacityCon[1,3] 47 >
+Coin3005W No match for row TotalProfit at line 1541 <    x[39,1] TotalProfit 51 CapacityCon[1,3] 22 >
+Coin3005W No match for row TotalProfit at line 1547 <    x[40,1] TotalProfit 33 CapacityCon[1,4] 42 >
+Coin3005W No match for row TotalProfit at line 1548 <    x[41,1] TotalProfit 89 CapacityCon[1,5] 50 >
+Coin3005W No match for row TotalProfit at line 1557 <    x[42,1] TotalProfit 17 CapacityCon[1,5] 74 >
+Coin3005W No match for row TotalProfit at line 1563 <    x[43,1] TotalProfit 54 CapacityCon[1,5] 19 >
+Coin3005W No match for row TotalProfit at line 1570 <    x[44,1] TotalProfit 10 CapacityCon[1,5] 32 >
+Coin3005W No match for row TotalProfit at line 1583 <    x[45,1] TotalProfit 73 CapacityCon[1,5] 79 >
+Coin3005W No match for row TotalProfit at line 1584 <    x[46,1] TotalProfit 86 CapacityCon[1,5] 98 >
+Coin3005W No match for row TotalProfit at line 1586 <    x[47,1] TotalProfit 85 CapacityCon[1,5] 72 >
+Coin3005W No match for row TotalProfit at line 1589 <    x[48,1] TotalProfit 98 CapacityCon[1,5] 28 >
+Coin3005W No match for row TotalProfit at line 1593 <    x[49,1] TotalProfit 80 CapacityCon[1,5] 75 >
+Coin3005W No match for row TotalProfit at line 1596 <    x[50,1] TotalProfit 94 CapacityCon[1,6] 31 >
+Coin3005W No match for row TotalProfit at line 1598 <    x[51,1] TotalProfit 62 CapacityCon[1,7] 95 >
+Coin3005W No match for row TotalProfit at line 1608 <    x[52,1] TotalProfit 85 CapacityCon[1,7] 80 >
+Coin3005W No match for row TotalProfit at line 1617 <    x[53,1] TotalProfit 51 CapacityCon[1,7] 67 >
+Coin3005W No match for row TotalProfit at line 1619 <    x[54,1] TotalProfit 84 CapacityCon[1,8] 61 >
+Coin3005W No match for row TotalProfit at line 1624 <    x[55,1] TotalProfit 75 CapacityCon[1,8] 76 >
+Coin3005W No match for row TotalProfit at line 1625 <    x[56,1] TotalProfit 48 CapacityCon[1,8] 97 >
+Coin3005W No match for row TotalProfit at line 1631 <    x[57,1] TotalProfit 52 CapacityCon[1,8] 78 >
+Coin3005W No match for row TotalProfit at line 1632 <    x[58,1] TotalProfit 53 CapacityCon[1,8] 41 >
+Coin3005W No match for row TotalProfit at line 1637 <    x[59,1] TotalProfit 50 CapacityCon[1,8] 67 >
+Coin3005W No match for row TotalProfit at line 1647 <    x[60,1] TotalProfit 86 CapacityCon[1,8] 31 >
+Coin3005W No match for row TotalProfit at line 1648 <    x[61,1] TotalProfit 72 CapacityCon[1,8] 71 >
+Coin3005W No match for row TotalProfit at line 1656 <    x[62,1] TotalProfit 86 CapacityCon[1,9] 64 >
+Coin3005W No match for row TotalProfit at line 1660 <    x[63,1] TotalProfit 52 CapacityCon[1,10] 100 >
+Coin3005W No match for row TotalProfit at line 1671 <    x[64,1] TotalProfit 70 LinkDupVarsCon[64,2] -1 >
+Coin3005W No match for row TotalProfit at line 1685 <    x[65,1] TotalProfit 44 CapacityCon[1,11] 64 >
+Coin3005W No match for row TotalProfit at line 1688 <    x[66,1] TotalProfit 95 CapacityCon[1,11] 78 >
+Coin3005W No match for row TotalProfit at line 1691 <    x[67,1] TotalProfit 80 CapacityCon[1,11] 47 >
+Coin3005W No match for row TotalProfit at line 1693 <    x[68,1] TotalProfit 88 CapacityCon[1,11] 98 >
+Coin3005W No match for row TotalProfit at line 1698 <    x[69,1] TotalProfit 43 CapacityCon[1,11] 91 >
+Coin3005W No match for row TotalProfit at line 1699 <    x[70,1] TotalProfit 23 CapacityCon[1,11] 90 >
+Coin3005W No match for row TotalProfit at line 1704 <    x[71,1] TotalProfit 45 CapacityCon[1,11] 31 >
+Coin3005W No match for row TotalProfit at line 1706 <    x[72,1] TotalProfit 89 CapacityCon[1,11] 33 >
+Coin3005W No match for row TotalProfit at line 1714 <    x[73,1] TotalProfit 59 CapacityCon[1,11] 61 >
+Coin3005W No match for row TotalProfit at line 1725 <    x[74,1] TotalProfit 76 CapacityCon[1,12] 27 >
+Coin3005W No match for row TotalProfit at line 1726 <    x[75,1] TotalProfit 31 CapacityCon[1,12] 82 >
+Coin3005W No match for row TotalProfit at line 1728 <    x[76,1] TotalProfit 44 LinkDupVarsCon[76,2] -1 >
+Coin3005W No match for row TotalProfit at line 1744 <    x[77,1] TotalProfit 70 CapacityCon[1,14] 29 >
+Coin3005W No match for row TotalProfit at line 1745 <    x[78,1] TotalProfit 78 CapacityCon[1,14] 83 >
+Coin3005W No match for row TotalProfit at line 1749 <    x[79,1] TotalProfit 47 CapacityCon[1,14] 21 >
+Coin3005W No match for row TotalProfit at line 1751 <    x[80,1] TotalProfit 10 CapacityCon[1,14] 100 >
+Coin3005W No match for row TotalProfit at line 1755 <    x[81,1] TotalProfit 64 CapacityCon[1,14] 23 >
+Coin3005W No match for row TotalProfit at line 1761 <    x[82,1] TotalProfit 66 CapacityCon[1,14] 17 >
+Coin3005W No match for row TotalProfit at line 1763 <    x[83,1] TotalProfit 22 CapacityCon[1,15] 99 >
+Coin3005W No match for row TotalProfit at line 1765 <    x[84,1] TotalProfit 28 CapacityCon[1,16] 37 >
+Coin3005W No match for row TotalProfit at line 1767 <    x[85,1] TotalProfit 84 LinkDupVarsCon[85,2] -1 >
+Coin3005W No match for row TotalProfit at line 1779 <    x[86,1] TotalProfit 30 CapacityCon[1,16] 71 >
+Coin3005W No match for row TotalProfit at line 1781 <    x[87,1] TotalProfit 73 CapacityCon[1,17] 55 >
+Coin3005W No match for row TotalProfit at line 1789 <    x[88,1] TotalProfit 11 CapacityCon[1,18] 36 >
+Coin3005W No match for row TotalProfit at line 1791 <    x[89,1] TotalProfit 53 CapacityCon[1,18] 17 >
+Coin3005W No match for row TotalProfit at line 1795 <    x[90,1] TotalProfit 38 CapacityCon[1,18] 12 >
+Coin3005W No match for row TotalProfit at line 1797 <    x[91,1] TotalProfit 73 CapacityCon[1,18] 64 >
+Coin3005W No match for row TotalProfit at line 1804 <    x[92,1] TotalProfit 66 CapacityCon[1,18] 83 >
+Coin3005W No match for row TotalProfit at line 1811 <    x[93,1] TotalProfit 27 CapacityCon[1,18] 74 >
+Coin3005W No match for row TotalProfit at line 1812 <    x[94,1] TotalProfit 85 LinkDupVarsCon[94,2] -1 >
+Coin3005W No match for row TotalProfit at line 1823 <    x[95,1] TotalProfit 78 CapacityCon[1,19] 23 >
+Coin3005W No match for row TotalProfit at line 1825 <    x[96,1] TotalProfit 78 LinkDupVarsCon[96,2] -1 >
+Coin3005W No match for row TotalProfit at line 1841 <    x[97,1] TotalProfit 26 CapacityCon[1,19] 57 >
+Coin3005W No match for row TotalProfit at line 1849 <    x[98,1] TotalProfit 98 LinkDupVarsCon[98,2] -1 >
+Coin3005W No match for row TotalProfit at line 1860 <    x[99,1] TotalProfit 98 CapacityCon[1,19] 80 >
+The file name is instances/decomplib/rap_i71.dec
+==  Welcome to the Abstract Library for Parallel Search (ALPS) 
+==  Copyright 2000-2013 Lehigh University and others 
+==  All Rights Reserved. 
+==  Distributed under the Eclipse Public License 1.0 
+==  Version: Trunk (unstable) 
+==  Build Date: Feb  9 2014
+==  Revision Number: 1872
+Alps0250I Starting search ...
+Alps0240I Proc: 1, Part: 0, Cand: 0, Best N: 1e+75, Best S: 0
+
+Alps0208I Search completed.
+Alps0261I Best solution found had quality 0 and was found at depth 0
+Alps0264I Number of nodes processed:                1
+Alps0267I Number of nodes branched:                 0
+Alps0268I Number of nodes pruned before processing: 0
+Alps0270I Number of nodes left:                     0
+Alps0272I Tree depth: 0
+Alps0274I Search CPU time: 0.06 seconds
+Alps0278I Search wall-clock time: 0.06 seconds
+
+================ DECOMP Statistics [BEGIN]: ===============                
+Total Decomp          =       0.06    100.00     1  0.06               
+Total Solve Relax     =       3.12   4887.00    48  0.13               
+Total Solve Relax App =       0.00      0.11    48  0.00               
+Total Solution Update =       0.02     28.24     2  0.01               
+Total Generate Cuts   =       0.00      0.00     0  0.00               
+Total Generate Vars   =       0.01     22.02     1  0.01               
+Total Compress Cols   =       0.00      0.00     0  0.00
+================ DECOMP Statistics [END  ]: =============== 
+                                             
+============== DECOMP Solution Info [Begin]: ============= 
+Status        = Optimal
+BestLB        =    0.00000
+BestUB        =    0.00000
+OptiGap       =    0.00000
+Nodes         = 1
+ SetupCPU      = 0.20
+ SolveCPU      = 0.06
+ TotalCPU      = 0.26
+ SetupWallclock= 0.27
+ SolveWallclock= 0.06
+ TotalWallclock= 0.33
+ ============== DECOMP Solution Info [END  ]: ============= 
+Optimal Solution is 
+ Optimal Solution can be found in the file /home/jiw508/miplib2010-1.0.3/BOX/miplib2010-1.0.4/results/solutions/decomp.dip.rap_i71.mps.sol
+
+@04 1392060046
+@05 100
+WARNING: solution cannot be checked because solution checker is missing
+-----------------------------
+Mon Feb 10 14:20:46 EST 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/scene_select.mps ===========
+-----------------------------
+Mon Feb 10 14:20:46 EST 2014
+-----------------------------
+@03 1392060046
+
+========================================================
+========================================================
+Welcome to the DIP Decomposition Framework
+Copyright 2002-2013 Lehigh University and others
+All Rights Reserved
+Distributed under the Eclipse Public License 1.0
+Version: trunk
+Build Date: Feb 10 2014
+Revision Number: 1023
+========================================================
+========================================================
+The file name is instances/decomplib/scene_select.dec
+==  Welcome to the Abstract Library for Parallel Search (ALPS) 
+==  Copyright 2000-2013 Lehigh University and others 
+==  All Rights Reserved. 
+==  Distributed under the Eclipse Public License 1.0 
+==  Version: Trunk (unstable) 
+==  Build Date: Feb  9 2014
+==  Revision Number: 1872
+Alps0250I Starting search ...
+Alps0240I Proc: 0, Part: 1, Cand: 0, Best N: 309683.27, Best S: 1e+75
+Alps0240I Proc: 1, Part: 1, Cand: 1, Best N: 309683.27, Best S: 334144
+Alps0240I Proc: 7, Part: 2, Cand: 4, Best N: 334100.25, Best S: 334144
+Alps0240I Proc: 10, Part: 1, Cand: 8, Best N: 334100.25, Best S: 334144
+Alps0240I Proc: 10, Part: 2, Cand: 7, Best N: 334100.25, Best S: 334144
+Alps0240I Proc: 17, Part: 5, Cand: 3, Best N: 334100.25, Best S: 334144
+Alps0240I Proc: 20, Part: 3, Cand: 6, Best N: 334100.25, Best S: 334144
+Alps0240I Proc: 30, Part: 2, Cand: 3, Best N: 334100.25, Best S: 334144
+Alps0240I Proc: 40, Part: 1, Cand: 2, Best N: 334100.25, Best S: 334144
+
+Alps0208I Search completed.
+Alps0261I Best solution found had quality 334144 and was found at depth 23
+Alps0265I Number of nodes fully processed:          42
+Alps0266I Number of nodes partially processed:      1
+Alps0267I Number of nodes branched:                 21
+Alps0268I Number of nodes pruned before processing: 0
+Alps0270I Number of nodes left:                     0
+Alps0272I Tree depth: 7
+Alps0274I Search CPU time: 78.25 seconds
+Alps0278I Search wall-clock time: 79.58 seconds
+
+================ DECOMP Statistics [BEGIN]: ===============                
+Total Decomp          =      79.60    100.00    43 17.79               
+Total Solve Relax     =     197.52    248.13  1080  1.69               
+Total Solve Relax App =       0.00      0.00  1080  0.00               
+Total Solution Update =       0.29      0.36   362  0.01               
+Total Generate Cuts   =       0.00      0.00    27  0.00               
+Total Generate Vars   =      78.95     99.18   268  1.69               
+Total Compress Cols   =       0.01      0.02    82  0.00
+================ DECOMP Statistics [END  ]: =============== 
+                                             
+============== DECOMP Solution Info [Begin]: ============= 
+Status        = Optimal
+BestLB        = 334144.00000
+BestUB        = 334144.00000
+OptiGap       =    0.00000
+Nodes         = 42
+ SetupCPU      = 0.33
+ SolveCPU      = 78.26
+ TotalCPU      = 78.58
+ SetupWallclock= 0.35
+ SolveWallclock= 79.62
+ TotalWallclock= 79.97
+ ============== DECOMP Solution Info [END  ]: ============= 
+Optimal Solution is 
+         AssignActor[1,1]   1.00000000
+         AssignActor[4,1]   1.00000000
+         AssignActor[5,1]   1.00000000
+         AssignActor[6,1]   1.00000000
+         AssignActor[7,1]   1.00000000
+         AssignActor[8,1]   1.00000000
+         AssignActor[9,1]   1.00000000
+        AssignActor[10,1]   1.00000000
+        AssignActor[11,1]   1.00000000
+         AssignActor[1,2]   1.00000000
+         AssignActor[2,2]   1.00000000
+         AssignActor[3,2]   1.00000000
+         AssignActor[5,2]   1.00000000
+         AssignActor[8,2]   1.00000000
+         AssignActor[9,2]   1.00000000
+        AssignActor[11,2]   1.00000000
+         AssignActor[1,3]   1.00000000
+         AssignActor[2,3]   1.00000000
+         AssignActor[4,3]   1.00000000
+         AssignActor[6,3]   1.00000000
+         AssignActor[9,3]   1.00000000
+         AssignActor[3,4]   1.00000000
+         AssignActor[6,4]   1.00000000
+         AssignActor[7,4]   1.00000000
+         AssignActor[8,4]   1.00000000
+        AssignActor[10,4]   1.00000000
+        AssignActor[11,4]   1.00000000
+         AssignScene[2,1]   1.00000000
+         AssignScene[5,1]   1.00000000
+        AssignScene[15,1]   1.00000000
+         AssignScene[8,1]   1.00000000
+        AssignScene[12,1]   1.00000000
+        AssignScene[10,2]   1.00000000
+        AssignScene[17,2]   1.00000000
+         AssignScene[9,2]   1.00000000
+        AssignScene[16,2]   1.00000000
+         AssignScene[3,2]   1.00000000
+         AssignScene[7,3]   1.00000000
+        AssignScene[11,3]   1.00000000
+        AssignScene[13,3]   1.00000000
+         AssignScene[4,3]   1.00000000
+        AssignScene[19,3]   1.00000000
+         AssignScene[6,4]   1.00000000
+        AssignScene[14,4]   1.00000000
+        AssignScene[18,4]   1.00000000
+         AssignScene[1,4]   1.00000000
+ Optimal Solution can be found in the file /home/jiw508/miplib2010-1.0.3/BOX/miplib2010-1.0.4/results/solutions/decomp.dip.scene_select.mps.sol
+
+@04 1392060126
+@05 100
+WARNING: solution cannot be checked because solution checker is missing
+-----------------------------
+Mon Feb 10 14:22:06 EST 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/unitcommitment.mps ===========
+-----------------------------
+Mon Feb 10 14:22:06 EST 2014
+-----------------------------
+@03 1392060126
+
+========================================================
+========================================================
+Welcome to the DIP Decomposition Framework
+Copyright 2002-2013 Lehigh University and others
+All Rights Reserved
+Distributed under the Eclipse Public License 1.0
+Version: trunk
+Build Date: Feb 10 2014
+Revision Number: 1023
+========================================================
+========================================================
+The file name is instances/decomplib/unitcommitment.dec
+==  Welcome to the Abstract Library for Parallel Search (ALPS) 
+==  Copyright 2000-2013 Lehigh University and others 
+==  All Rights Reserved. 
+==  Distributed under the Eclipse Public License 1.0 
+==  Version: Trunk (unstable) 
+==  Build Date: Feb  9 2014
+==  Revision Number: 1872
+Alps0250I Starting search ...

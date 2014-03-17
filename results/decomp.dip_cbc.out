@@ -1,0 +1,271 @@
+Linux polyp1 2.6.32-5-amd64 #1 SMP Mon Sep 23 22:14:43 UTC 2013 x86_64 GNU/Linux
+Mon Mar 17 14:28:42 EDT 2014
+MIPLIB script version 1.0.3
+hard mem limit: 8388608 k
+@01 instances/decomplib/atm_miplib2010.mps ===========
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+@03 1395080922
+bash: /home/jiw508/miplib2010-1.0.4/scripts/run_dip_cbc.sh: No such file or directory
+
+@04 1395080922
+@05 3600
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/colore_errera.mps ===========
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+@03 1395080922
+bash: /home/jiw508/miplib2010-1.0.4/scripts/run_dip_cbc.sh: No such file or directory
+
+@04 1395080922
+@05 3600
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/gap42.mps ===========
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+@03 1395080922
+bash: /home/jiw508/miplib2010-1.0.4/scripts/run_dip_cbc.sh: No such file or directory
+
+@04 1395080922
+@05 3600
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/kidney2_10_9.mps ===========
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+@03 1395080922
+bash: /home/jiw508/miplib2010-1.0.4/scripts/run_dip_cbc.sh: No such file or directory
+
+@04 1395080922
+@05 3600
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/kidney3_20_50.mps ===========
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+@03 1395080922
+bash: /home/jiw508/miplib2010-1.0.4/scripts/run_dip_cbc.sh: No such file or directory
+
+@04 1395080922
+@05 3600
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/n1c3w1a.mps ===========
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+@03 1395080922
+bash: /home/jiw508/miplib2010-1.0.4/scripts/run_dip_cbc.sh: No such file or directory
+
+@04 1395080922
+@05 3600
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/neos_911880.mps ===========
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+@03 1395080922
+bash: /home/jiw508/miplib2010-1.0.4/scripts/run_dip_cbc.sh: No such file or directory
+
+@04 1395080922
+@05 3600
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/noswot.mps ===========
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+@03 1395080922
+bash: /home/jiw508/miplib2010-1.0.4/scripts/run_dip_cbc.sh: No such file or directory
+
+@04 1395080922
+@05 3600
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/ns1702808.mps ===========
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+@03 1395080922
+bash: /home/jiw508/miplib2010-1.0.4/scripts/run_dip_cbc.sh: No such file or directory
+
+@04 1395080922
+@05 3600
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/p12502.mps ===========
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+@03 1395080922
+bash: /home/jiw508/miplib2010-1.0.4/scripts/run_dip_cbc.sh: No such file or directory
+
+@04 1395080922
+@05 3600
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/p16502.mps ===========
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+@03 1395080922
+bash: /home/jiw508/miplib2010-1.0.4/scripts/run_dip_cbc.sh: No such file or directory
+
+@04 1395080922
+@05 3600
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/p20501.mps ===========
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+@03 1395080922
+bash: /home/jiw508/miplib2010-1.0.4/scripts/run_dip_cbc.sh: No such file or directory
+
+@04 1395080922
+@05 3600
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/rap_i22.mps ===========
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+@03 1395080922
+bash: /home/jiw508/miplib2010-1.0.4/scripts/run_dip_cbc.sh: No such file or directory
+
+@04 1395080922
+@05 3600
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/rap_i71.mps ===========
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+@03 1395080922
+bash: /home/jiw508/miplib2010-1.0.4/scripts/run_dip_cbc.sh: No such file or directory
+
+@04 1395080922
+@05 3600
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/scene_select.mps ===========
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+@03 1395080922
+bash: /home/jiw508/miplib2010-1.0.4/scripts/run_dip_cbc.sh: No such file or directory
+
+@04 1395080922
+@05 3600
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/unitcommitment.mps ===========
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+@03 1395080922
+bash: /home/jiw508/miplib2010-1.0.4/scripts/run_dip_cbc.sh: No such file or directory
+
+@04 1395080922
+@05 3600
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/vrp_p_n22_k8_3index.mps ===========
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+@03 1395080922
+bash: /home/jiw508/miplib2010-1.0.4/scripts/run_dip_cbc.sh: No such file or directory
+
+@04 1395080922
+@05 3600
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/wed_16_4.mps ===========
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+@03 1395080922
+bash: /home/jiw508/miplib2010-1.0.4/scripts/run_dip_cbc.sh: No such file or directory
+
+@04 1395080922
+@05 3600
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+
+=ready=
+@01 instances/decomplib/wed_40_6.mps ===========
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+@03 1395080922
+bash: /home/jiw508/miplib2010-1.0.4/scripts/run_dip_cbc.sh: No such file or directory
+
+@04 1395080922
+@05 3600
+-----------------------------
+Mon Mar 17 14:28:42 EDT 2014
+-----------------------------
+
+=ready=
+Mon Mar 17 14:28:42 EDT 2014
