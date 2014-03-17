@@ -1,0 +1,76 @@
+
+Log started (V12.5.0.0) Mon Feb 10 04:14:00 2014
+
+
+Selected objective sense:  MINIMIZE
+Selected objective  name:  Obj
+Selected RHS        name:  RHS
+Selected bound      name:  Bound
+
+Problem 'gap42.mps' read.
+Read time = 0.01 sec. (0.03 ticks)
+Tried aggregator 1 time.
+Presolve time = 0.00 sec. (0.18 ticks)
+Probing time = 0.00 sec. (0.06 ticks)
+Tried aggregator 1 time.
+Presolve time = 0.00 sec. (0.18 ticks)
+Probing time = 0.00 sec. (0.06 ticks)
+Clique table members: 30.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 16 threads.
+Root relaxation solution time = 0.00 sec. (0.15 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+      0     0     -654.9782     9                   -654.9782       15         
+*     0+    0                         -642.0000     -654.9782       15    2.02%
+      0     0     -650.7412    16     -642.0000      Cuts: 12       25    1.36%
+
+Repeating presolve.
+Tried aggregator 2 times.
+MIP Presolve eliminated 1 rows and 41 columns.
+Aggregator did 3 substitutions.
+Reduced MIP has 31 rows, 106 columns, and 212 nonzeros.
+Reduced MIP has 106 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.20 ticks)
+Probing time = 0.00 sec. (0.04 ticks)
+Tried aggregator 1 time.
+Presolve time = 0.00 sec. (0.12 ticks)
+Represolve time = 0.01 sec. (0.52 ticks)
+Probing time = 0.00 sec. (0.04 ticks)
+Clique table members: 26.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 16 threads.
+Root relaxation solution time = 0.00 sec. (0.17 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                         -642.0000     -650.7412       48    1.36%
+      0     0     -650.7412    15     -642.0000     -650.7412       48    1.36%
+      0     2     -650.7412    15     -642.0000     -650.7412       48    1.36%
+Elapsed time = 0.13 sec. (3.76 ticks, tree = 0.01 MB, solutions = 1)
+*    97+   29                         -643.0000     -650.1343      774    1.11%
+*   212     7      integral     0     -644.0000     -646.8783     1629    0.45%
+
+Cover cuts applied:  58
+Zero-half cuts applied:  1
+
+Root node processing (before b&c):
+  Real time             =    0.04 sec. (2.61 ticks)
+Parallel b&c, 16 threads:
+  Real time             =    0.30 sec. (6.76 ticks)
+  Sync time (average)   =    0.02 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.34 sec. (9.37 ticks)
+
+Solution pool: 5 solutions saved.
+
+MIP - Integer optimal solution:  Objective = -6.4400000000e+02
+Solution time =    0.37 sec.  Iterations = 1674  Nodes = 222
+Deterministic time = 10.41 ticks  (28.12 ticks/sec)
+
