@@ -1,5 +1,6 @@
-NAME mpsdata
-OBJSENSE MAX
+NAME rap_i22
+OBJSENSE
+ MAX
 ROWS  
  N TotalProfit
  E LinkDupVarsCon[41,2]        

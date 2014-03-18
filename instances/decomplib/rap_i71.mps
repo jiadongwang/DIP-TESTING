@@ -1,5 +1,6 @@
 NAME rap_i71
-OBJSENSE MAX	
+OBJSENSE
+ MAX	
 ROWS  
  N TotalProfit        
  E LinkDupVarsCon[64,2]        
