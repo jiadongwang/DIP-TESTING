@@ -6,7 +6,6 @@ instances/decomplib/kidney3_20_50.mps
 instances/decomplib/n1c3w1a.mps
 instances/decomplib/neos_911880.mps
 instances/decomplib/noswot.mps
-instances/decomplib/ns1702808.mps
 instances/decomplib/p12502.mps
 instances/decomplib/p16502.mps
 instances/decomplib/p20501.mps
@@ -17,3 +16,6 @@ instances/decomplib/unitcommitment.mps
 instances/decomplib/vrp_p_n22_k8_3index.mps
 instances/decomplib/wed_16_4.mps
 instances/decomplib/wed_40_6.mps
+instances/decomplib/rap_u52.mps
+instances/decomplib/atm_5_10_1.mps
+instances/decomplib/retail3.mps
